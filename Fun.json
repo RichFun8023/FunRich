@@ -1,7 +1,8 @@
 {
 "spider":"./jar/fan.txt;md5;026629a5c54494dc8ae9bd38d0a1a1f6",
 "logo":"https://avatars.githubusercontent.com/u/58679624?v=4",
-"lives":[{"name":"初秋语•ipv4","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/RichFun8023/FunRich/main/Fun.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+"lives":[{"name":"初秋语•ipv4","type":0,"url":"./list.txt","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
+{"name":"Fun","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/RichFun8023/FunRich/main/Fun.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 {"name":"范明明•ipv6","type":0,"url":"https://github.moeyy.xyz/https://raw.githubusercontent.com/fanmingming/live/main/tv/m3u/ipv6.m3u","playerType":1,"epg":"http://epg.112114.xyz/?ch={name}&date={date}","logo":"https://epg.112114.xyz/logo/{name}.png"},
 ],
 "wallpaper":"https://深色壁纸.xxooo.cf/",
