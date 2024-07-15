@@ -1,12 +1,12 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://119.98.88.186:4022/rtp/239.254.96.96:8550
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://171.41.254.81:8888/rtp/239.254.96.96:8550
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
 http://27.24.23.117:9999/rtp/239.254.96.96:8550
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://119.98.88.186:4022/rtp/239.69.1.102:10250
+http://58.248.112.205:8006/GD_CUCC/G_CETV-2.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNf3C%2BAtgKUmck3ZrnHpUmW7Hc94RY9O0FLdbtJQieEQp
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
 http://171.41.254.81:8888/rtp/239.69.1.102:10250
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
@@ -35,8 +35,8 @@ http://171.41.254.81:8888/rtp/239.69.1.12:9712
 http://27.24.23.117:9999/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5+
 http://27.24.23.117:9999/rtp/239.69.1.12:9712
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://119.98.88.186:4022/rtp/239.69.1.123:10376
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV555
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
 http://171.41.254.81:8888/rtp/239.69.1.123:10376
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
