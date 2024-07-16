@@ -114,21 +114,19 @@ http://www.hiliu.myds.me:8088/rtp/239.254.96.115:8664
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
 http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD
 #EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://119.98.88.186:4022/rtp/239.254.96.144:8938
-http://119.98.88.186:4022/rtp/239.69.1.174:10680
+http://58.248.112.205:8006/GD_CUCC/G_JIANGSU-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKu%2BuH8HDFS0PtokY11nWnf4qV6vyu%2BOKjQBSSKsQUVYE
 http://www.furymax.top:85/rtp/239.254.96.144:8938
 http://www.furymax.top:85/rtp/239.69.1.174:10680
 http://www.hiliu.myds.me:8088/rtp/239.254.96.144:8938
 http://www.hiliu.myds.me:8088/rtp/239.69.1.174:10680
 #EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://119.98.88.186:4022/rtp/239.254.96.142:8926
-http://119.98.88.186:4022/rtp/239.69.1.173:10674
+http://58.248.112.205:8006/GD_CUCC/G_DONGFANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHfFI8ayEeoekFD8P08%2F7EXF4NHMHVaPey3ntJx7niV8g
 http://www.furymax.top:85/rtp/239.254.96.142:8926
 http://www.furymax.top:85/rtp/239.69.1.173:10674
 http://www.hiliu.myds.me:8088/rtp/239.254.96.142:8926
 http://www.hiliu.myds.me:8088/rtp/239.69.1.173:10674
 #EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://119.98.88.186:4022/rtp/239.254.96.143:8932
+http://58.248.112.205:8006/GD_CUCC/G_ZHEJIANG-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHdr3tmmw%2BL49D6e6Yw0TfYx4NHMHVaPey3ntJx7niV8g
 http://www.furymax.top:85/rtp/239.254.96.143:8932
 http://www.hiliu.myds.me:8088/rtp/239.254.96.143:8932
 #EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
