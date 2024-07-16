@@ -1,3 +1,278 @@
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
+http://www.furymax.top:85/rtp/239.254.96.96:8550
+http://www.hiliu.myds.me:8088/rtp/239.254.96.96:8550
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0
+http://www.furymax.top:85/rtp/239.69.1.102:10250
+http://www.hiliu.myds.me:8088/rtp/239.69.1.102:10250
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv
+http://www.furymax.top:85/rtp/239.69.1.122:10370
+http://www.hiliu.myds.me:8088/rtp/239.69.1.122:10370
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV4
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F
+http://www.furymax.top:85/rtp/239.69.1.138:10466
+http://www.hiliu.myds.me:8088/rtp/239.69.1.138:10466
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运
+http://www.furymax.top:85/rtp/239.69.1.123:10376
+http://www.hiliu.myds.me:8088/rtp/239.69.1.123:10376
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5+
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运
+http://www.furymax.top:85/rtp/239.254.96.234:9484
+http://www.hiliu.myds.me:8088/rtp/239.254.96.234:9484
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV6
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe
+http://www.furymax.top:85/rtp/239.69.1.124:10382
+http://www.hiliu.myds.me:8088/rtp/239.69.1.124:10382
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV7
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe
+http://www.furymax.top:85/rtp/239.69.1.103:10256
+http://www.hiliu.myds.me:8088/rtp/239.69.1.103:10256
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV8
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt
+http://www.furymax.top:85/rtp/239.69.1.125:10388
+http://www.hiliu.myds.me:8088/rtp/239.69.1.125:10388
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV9
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
+http://www.furymax.top:85/rtp/239.69.1.104:10262
+http://www.hiliu.myds.me:8088/rtp/239.69.1.104:10262
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV10
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj
+http://www.furymax.top:85/rtp/239.69.1.105:10268
+http://www.hiliu.myds.me:8088/rtp/239.69.1.105:10268
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV11
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0
+http://www.furymax.top:85/rtp/239.69.1.154:10560
+http://www.hiliu.myds.me:8088/rtp/239.69.1.154:10560
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV12
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k
+http://www.furymax.top:85/rtp/239.69.1.106:10274
+http://www.hiliu.myds.me:8088/rtp/239.69.1.106:10274
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV13
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
+http://www.furymax.top:85/rtp/239.254.96.161:9040
+http://www.hiliu.myds.me:8088/rtp/239.254.96.161:9040
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV14
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6
+http://www.furymax.top:85/rtp/239.69.1.107:10280
+http://www.hiliu.myds.me:8088/rtp/239.69.1.107:10280
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV15
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
+http://www.furymax.top:85/rtp/239.69.1.155:10566
+http://www.hiliu.myds.me:8088/rtp/239.69.1.155:10566
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&id=2024奥运
+http://www.furymax.top:85/rtp/239.69.1.247:11124
+http://www.hiliu.myds.me:8088/rtp/239.69.1.247:11124
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16-4K
+http://119.98.88.186:4022/rtp/239.69.1.13:9718
+http://www.furymax.top:85/rtp/239.69.1.13:9718
+http://www.hiliu.myds.me:8088/rtp/239.69.1.13:9718
+#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" group-title="央视频道",CCTV16奥林匹克-4K
+http://119.98.88.186:4022/rtp/239.69.1.249:11136
+http://www.furymax.top:85/rtp/239.69.1.249:11136
+http://www.hiliu.myds.me:8088/rtp/239.69.1.249:11136
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
+http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
+http://www.furymax.top:85/rtp/239.69.1.152:10548
+http://www.hiliu.myds.me:8088/rtp/239.69.1.152:10548
+#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
+http://119.98.88.186:4022/rtp/239.69.1.91:10186
+http://www.furymax.top:85/rtp/239.69.1.91:10186
+http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186
+#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="央视频道",CCTV兵器科技
+http://119.98.88.186:4022/rtp/239.69.1.79:10114
+http://www.furymax.top:85/rtp/239.69.1.79:10114
+http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114
+#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="央视频道",CCTV央视台球
+http://119.98.88.186:4022/rtp/239.69.1.98:10224
+http://www.furymax.top:85/rtp/239.69.1.98:10224
+http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224
+#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央视频道",CCTV第一剧场
+http://119.98.88.186:4022/rtp/239.69.1.74:10084
+http://www.furymax.top:85/rtp/239.69.1.74:10084
+http://www.hiliu.myds.me:8088/rtp/239.69.1.74:10084
+#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="央视频道",CCTV风云足球
+http://119.98.88.186:4022/rtp/239.69.1.81:10126
+http://www.furymax.top:85/rtp/239.69.1.81:10126
+http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126
+#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="央视频道",CCTV高尔夫网球
+http://119.98.88.186:4022/rtp/239.69.1.83:10138
+http://www.furymax.top:85/rtp/239.69.1.83:10138
+http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
+http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
+http://www.furymax.top:85/rtp/239.254.96.139:8908
+http://www.hiliu.myds.me:8088/rtp/239.254.96.139:8908
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
+http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfm12jp2Xf%2BoEVOwZjj0vsuZv6kEjBfquqPtTBEwcGKG
+http://www.furymax.top:85/rtp/239.254.96.115:8664
+http://www.hiliu.myds.me:8088/rtp/239.254.96.115:8664
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视
+http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
+http://119.98.88.186:4022/rtp/239.254.96.144:8938
+http://119.98.88.186:4022/rtp/239.69.1.174:10680
+http://www.furymax.top:85/rtp/239.254.96.144:8938
+http://www.furymax.top:85/rtp/239.69.1.174:10680
+http://www.hiliu.myds.me:8088/rtp/239.254.96.144:8938
+http://www.hiliu.myds.me:8088/rtp/239.69.1.174:10680
+#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
+http://119.98.88.186:4022/rtp/239.254.96.142:8926
+http://119.98.88.186:4022/rtp/239.69.1.173:10674
+http://www.furymax.top:85/rtp/239.254.96.142:8926
+http://www.furymax.top:85/rtp/239.69.1.173:10674
+http://www.hiliu.myds.me:8088/rtp/239.254.96.142:8926
+http://www.hiliu.myds.me:8088/rtp/239.69.1.173:10674
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
+http://119.98.88.186:4022/rtp/239.254.96.143:8932
+http://www.furymax.top:85/rtp/239.254.96.143:8932
+http://www.hiliu.myds.me:8088/rtp/239.254.96.143:8932
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
+http://119.98.88.186:4022/rtp/239.254.96.141:8920
+http://www.furymax.top:85/rtp/239.254.96.141:8920
+http://www.hiliu.myds.me:8088/rtp/239.254.96.141:8920
+#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道",东南卫视
+http://119.98.88.186:4022/rtp/239.69.1.108:10286
+http://www.furymax.top:85/rtp/239.69.1.108:10286
+http://www.hiliu.myds.me:8088/rtp/239.69.1.108:10286
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
+http://119.98.88.186:4022/rtp/239.69.1.212:10914
+http://www.furymax.top:85/rtp/239.69.1.212:10914
+http://www.hiliu.myds.me:8088/rtp/239.69.1.212:10914
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
+http://119.98.88.186:4022/rtp/239.69.1.169:10650
+http://www.furymax.top:85/rtp/239.69.1.169:10650
+http://www.hiliu.myds.me:8088/rtp/239.69.1.169:10650
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
+http://119.98.88.186:4022/rtp/239.69.1.68:10048
+http://www.furymax.top:85/rtp/239.69.1.68:10048
+http://www.hiliu.myds.me:8088/rtp/239.69.1.68:10048
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
+http://119.98.88.186:4022/rtp/239.69.1.70:10060
+http://www.furymax.top:85/rtp/239.69.1.70:10060
+http://www.hiliu.myds.me:8088/rtp/239.69.1.70:10060
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
+http://119.98.88.186:4022/rtp/239.69.1.69:10054
+http://www.furymax.top:85/rtp/239.69.1.69:10054
+http://www.hiliu.myds.me:8088/rtp/239.69.1.69:10054
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
+http://119.98.88.186:4022/rtp/239.254.96.140:8914
+http://www.furymax.top:85/rtp/239.254.96.140:8914
+http://www.hiliu.myds.me:8088/rtp/239.254.96.140:8914
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
+http://119.98.88.186:4022/rtp/239.69.1.191:10788
+http://www.furymax.top:85/rtp/239.69.1.191:10788
+http://www.hiliu.myds.me:8088/rtp/239.69.1.191:10788
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道",江西卫视
+http://119.98.88.186:4022/rtp/239.69.1.126:10394
+http://www.furymax.top:85/rtp/239.69.1.126:10394
+http://www.hiliu.myds.me:8088/rtp/239.69.1.126:10394
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
+http://119.98.88.186:4022/rtp/239.254.96.113:9616
+http://119.98.88.186:4022/rtp/239.69.1.157:10578
+http://www.furymax.top:85/rtp/239.254.96.113:9616
+http://www.furymax.top:85/rtp/239.69.1.157:10578
+http://www.hiliu.myds.me:8088/rtp/239.254.96.113:9616
+http://www.hiliu.myds.me:8088/rtp/239.69.1.157:10578
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道",河南卫视
+http://119.98.88.186:4022/rtp/239.69.1.168:10644
+http://www.furymax.top:85/rtp/239.69.1.168:10644
+http://www.hiliu.myds.me:8088/rtp/239.69.1.168:10644
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
+http://119.98.88.186:4022/rtp/239.69.1.151:10542
+http://www.furymax.top:85/rtp/239.69.1.151:10542
+http://www.hiliu.myds.me:8088/rtp/239.69.1.151:10542
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
+http://119.98.88.186:4022/rtp/239.254.96.137:8896
+http://www.furymax.top:85/rtp/239.254.96.137:8896
+http://www.hiliu.myds.me:8088/rtp/239.254.96.137:8896
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
+http://119.98.88.186:4022/rtp/239.69.1.150:10536
+http://www.furymax.top:85/rtp/239.69.1.150:10536
+http://www.hiliu.myds.me:8088/rtp/239.69.1.150:10536
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
+http://119.98.88.186:4022/rtp/239.69.1.71:10066
+http://www.furymax.top:85/rtp/239.69.1.71:10066
+http://www.hiliu.myds.me:8088/rtp/239.69.1.71:10066
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
+http://119.98.88.186:4022/rtp/239.69.1.149:10530
+http://www.furymax.top:85/rtp/239.69.1.149:10530
+http://www.hiliu.myds.me:8088/rtp/239.69.1.149:10530
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
+http://119.98.88.186:4022/rtp/239.254.96.138:8902
+http://www.furymax.top:85/rtp/239.254.96.138:8902
+http://www.hiliu.myds.me:8088/rtp/239.254.96.138:8902
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他",CETV1
+http://119.98.88.186:4022/rtp/239.69.1.110:10298#http://www.furymax.top:85/rtp/239.69.1.110:10298#http://www.hiliu.myds.me:8088/rtp/239.69.1.110:10298
+#EXTINF:-1,tvg-id="爱上4k" tvg-name="爱上4k" tvg-logo="https://epg.v1.mk/logo/爱上4k.png" group-title="其他",爱上4K
+http://119.98.88.186:4022/rtp/239.69.1.141:10482#http://www.furymax.top:85/rtp/239.69.1.141:10482#http://www.hiliu.myds.me:8088/rtp/239.69.1.141:10482
+#EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="其他",快乐垂钓
+http://119.98.88.186:4022/rtp/239.69.1.142:10488#http://www.furymax.top:85/rtp/239.69.1.142:10488#http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
+#EXTINF:-1,tvg-id="房县新闻综合" tvg-name="房县新闻综合" tvg-logo="https://epg.v1.mk/logo/房县新闻综合.png" group-title="其他",房县综合
+http://119.98.88.186:4022/rtp/239.69.1.192:10794#http://www.furymax.top:85/rtp/239.69.1.192:10794#http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
+#EXTINF:-1,tvg-id="梨园" tvg-name="梨园" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他",梨园频道
+http://119.98.88.186:4022/rtp/239.69.1.33:9838#http://www.furymax.top:85/rtp/239.69.1.33:9838#http://www.hiliu.myds.me:8088/rtp/239.69.1.33:9838
+#EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="其他",武术世界
+http://119.98.88.186:4022/rtp/239.69.1.47:9922#http://www.furymax.top:85/rtp/239.69.1.47:9922#http://www.hiliu.myds.me:8088/rtp/239.69.1.47:9922
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉三台科技生活
+http://119.98.88.186:4022/rtp/239.69.1.251:11148#http://www.furymax.top:85/rtp/239.69.1.251:11148#http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉二台电视剧
+http://119.98.88.186:4022/rtp/239.69.1.146:10512#http://www.furymax.top:85/rtp/239.69.1.146:10512#http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉五台文体
+http://119.98.88.186:4022/rtp/239.69.1.147:10518#http://www.furymax.top:85/rtp/239.69.1.147:10518#http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉六台外语
+http://119.98.88.186:4022/rtp/239.69.1.36:9856#http://www.furymax.top:85/rtp/239.69.1.36:9856#http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉四台经济
+http://119.98.88.186:4022/rtp/239.69.1.35:9850#http://www.furymax.top:85/rtp/239.69.1.35:9850#http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
+#EXTINF:-1,tvg-id="武汉教育" tvg-name="武汉教育" tvg-logo="https://epg.v1.mk/logo/武汉教育.png" group-title="其他",武汉教育
+http://119.98.88.186:4022/rtp/239.69.1.60:9994#http://www.furymax.top:85/rtp/239.69.1.60:9994#http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
+#EXTINF:-1,tvg-id="茶" tvg-name="茶" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="其他",茶频道
+http://119.98.88.186:4022/rtp/239.69.1.144:10500#http://www.furymax.top:85/rtp/239.69.1.144:10500#http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
+#EXTINF:-1,tvg-id="蔡甸综合" tvg-name="蔡甸综合" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="其他",蔡甸综合
+http://119.98.88.186:4022/rtp/239.69.1.245:11112#http://www.furymax.top:85/rtp/239.69.1.245:11112#http://www.hiliu.myds.me:8088/rtp/239.69.1.245:11112
+#EXTINF:-1,tvg-id="chc动作电影" tvg-name="chc动作电影" tvg-logo="https://epg.v1.mk/logo/chc动作电影.png" group-title="其他",CHC-动作电影
+http://119.98.88.186:4022/rtp/239.69.1.242:11094#http://www.furymax.top:85/rtp/239.69.1.242:11094#http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
+#EXTINF:-1,tvg-id="chc家庭影院" tvg-name="chc家庭影院" tvg-logo="https://epg.v1.mk/logo/chc家庭影院.png" group-title="其他",CHC-家庭影院
+http://119.98.88.186:4022/rtp/239.69.1.243:11100#http://www.furymax.top:85/rtp/239.69.1.243:11100#http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
+#EXTINF:-1,tvg-id="chc高清电影" tvg-name="chc高清电影" tvg-logo="https://epg.v1.mk/logo/chc高清电影.png" group-title="其他",CHC-高清电影
+http://119.98.88.186:4022/rtp/239.69.1.241:11088#http://www.furymax.top:85/rtp/239.69.1.241:11088#http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
+#EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他",卡酷少儿
+http://119.98.88.186:4022/rtp/239.69.1.193:10800#http://www.furymax.top:85/rtp/239.69.1.193:10800#http://www.hiliu.myds.me:8088/rtp/239.69.1.193:10800
+#EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="其他",武汉一台新闻综合
+http://119.98.88.186:4022/rtp/239.69.1.145:10506#http://www.furymax.top:85/rtp/239.69.1.145:10506#http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="湖北",湖北公共新闻
+http://119.98.88.186:4022/rtp/239.69.1.40:9880#http://www.furymax.top:85/rtp/239.69.1.40:9880#http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
+#EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="湖北",湖北垄上
+http://119.98.88.186:4022/rtp/239.69.1.43:9898#http://www.furymax.top:85/rtp/239.69.1.43:9898#http://www.hiliu.myds.me:8088/rtp/239.69.1.43:9898
+#EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="湖北",湖北影视
+http://119.98.88.186:4022/rtp/239.69.1.204:10866#http://www.furymax.top:85/rtp/239.69.1.204:10866#http://www.hiliu.myds.me:8088/rtp/239.69.1.204:10866
+#EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="湖北",湖北教育
+http://119.98.88.186:4022/rtp/239.69.1.206:10878#http://www.furymax.top:85/rtp/239.69.1.206:10878#http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
+#EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="湖北",湖北生活
+http://119.98.88.186:4022/rtp/239.69.1.205:10872#http://www.furymax.top:85/rtp/239.69.1.205:10872#http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="湖北",湖北经视
+http://119.98.88.186:4022/rtp/239.69.1.41:9886#http://www.furymax.top:85/rtp/239.69.1.41:9886#http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="湖北",湖北综合
+http://119.98.88.186:4022/rtp/239.69.1.42:9892#http://www.furymax.top:85/rtp/239.69.1.42:9892#http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
+http://119.98.88.186:4022/rtp/239.69.1.248:11130
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
+http://www.furymax.top:85/rtp/239.69.1.248:11130
+#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
+http://www.hiliu.myds.me:8088/rtp/239.69.1.248:11130
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
+http://119.98.88.186:4022/rtp/239.69.1.109:10292
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
+http://www.furymax.top:85/rtp/239.69.1.109:10292
+#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
+http://www.hiliu.myds.me:8088/rtp/239.69.1.109:10292
+#EXTINF:-1,tvg-id="阳新综合" tvg-name="阳新综合" group-title="其他频道",阳新综合
+http://119.98.88.186:4022/rtp/239.69.1.34:9844
+http://www.furymax.top:85/rtp/239.69.1.34:9844
+http://www.hiliu.myds.me:8088/rtp/239.69.1.34:9844
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳湖北移动IPV6",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
@@ -159,442 +434,6 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
-http://www.furymax.top:85/rtp/239.254.96.96:8550
-http://www.hiliu.myds.me:8088/rtp/239.254.96.96:8550
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="央视频道",CCTV2
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-2-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBa03tuFR%2Fdsya1OSO0Z1VDEEWNg5ICoftLE%2FdS9%2BOGL0
-http://www.furymax.top:85/rtp/239.69.1.102:10250
-http://www.hiliu.myds.me:8088/rtp/239.69.1.102:10250
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="央视频道",CCTV3
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-3-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBewnOI0Q0FnH0j6ix%2FEuEE%2FlrAcxI6a6K3gCsE%2F0xqwv
-http://www.furymax.top:85/rtp/239.69.1.122:10370
-http://www.hiliu.myds.me:8088/rtp/239.69.1.122:10370
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="央视频道",CCTV4
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-4-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRab8%2B23dyjcWftcVGhPU%2BNGwbxMCOQz1LvVoHJF7Vi%2F
-http://www.furymax.top:85/rtp/239.69.1.138:10466
-http://www.hiliu.myds.me:8088/rtp/239.69.1.138:10466
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-5-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBSH%2Fdcga0ub9HyjSFJq4wMsikb7ADOVlWhn49oiB6V%2FG&id=2024奥运
-http://www.furymax.top:85/rtp/239.69.1.123:10376
-http://www.hiliu.myds.me:8088/rtp/239.69.1.123:10376
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="央视频道",CCTV5+
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYdR%2FXUke9cnQAha7YFSVSe71iqwQ7l064%2Fcza9NPPzC&id=2024奥运
-http://www.furymax.top:85/rtp/239.254.96.234:9484
-http://www.hiliu.myds.me:8088/rtp/239.254.96.234:9484
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV6
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe
-http://www.furymax.top:85/rtp/239.69.1.124:10382
-http://www.hiliu.myds.me:8088/rtp/239.69.1.124:10382
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="央视频道",CCTV7
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-7-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBbnOCQoNESV2qWsAYbhnlDiyPV4eph4rJWQgnDXisMTe
-http://www.furymax.top:85/rtp/239.69.1.103:10256
-http://www.hiliu.myds.me:8088/rtp/239.69.1.103:10256
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="央视频道",CCTV8
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-8-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYZxg8b1eRG7LTk8x07GrI44Cftlba08rT1Q6udDNxyt
-http://www.furymax.top:85/rtp/239.69.1.125:10388
-http://www.hiliu.myds.me:8088/rtp/239.69.1.125:10388
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="央视频道",CCTV9
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-9-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZc7OJ1GFY%2FDpyULoLmfNSfAKtWnnk8cjSV9zSUfQpeh
-http://www.furymax.top:85/rtp/239.69.1.104:10262
-http://www.hiliu.myds.me:8088/rtp/239.69.1.104:10262
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="央视频道",CCTV10
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-10-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBUsd9mij0JyOcibqYTdmWtJRAbL1Z1y%2FbfEZUJlg3Wvj
-http://www.furymax.top:85/rtp/239.69.1.105:10268
-http://www.hiliu.myds.me:8088/rtp/239.69.1.105:10268
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="央视频道",CCTV11
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-11-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBQtjk7PDi4fkN2nvO2gK27vcQcFLN2lXJ4FdJoL4kLn0
-http://www.furymax.top:85/rtp/239.69.1.154:10560
-http://www.hiliu.myds.me:8088/rtp/239.69.1.154:10560
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="央视频道",CCTV12
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-12-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBRtFGgShYCQQqFHAFhzmleoLMq0KIThiOUWH4ztNrd0k
-http://www.furymax.top:85/rtp/239.69.1.106:10274
-http://www.hiliu.myds.me:8088/rtp/239.69.1.106:10274
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="央视频道",CCTV13
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-13-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBeUi4Thb7vkXG9wotcNmK%2FSEqT0xBi9U3gvduQFenMFz
-http://www.furymax.top:85/rtp/239.254.96.161:9040
-http://www.hiliu.myds.me:8088/rtp/239.254.96.161:9040
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="央视频道",CCTV14
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-14-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBc44kHEGXWPeTdip0KbSgbcUS47HSY0WGvdsrttpfOO6
-http://www.furymax.top:85/rtp/239.69.1.107:10280
-http://www.hiliu.myds.me:8088/rtp/239.69.1.107:10280
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="央视频道",CCTV15
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-15-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBYyPYgkCWBSIT3aCcBdsAjsuu6MyRrRs1cAsik3e8WER
-http://www.furymax.top:85/rtp/239.69.1.155:10566
-http://www.hiliu.myds.me:8088/rtp/239.69.1.155:10566
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-16-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBVSIaGkZ%2BPhCYgvTlbbof9ehJWpxNEs6VzmrJ5uWaaFf&id=2024奥运
-http://www.furymax.top:85/rtp/239.69.1.247:11124
-http://www.hiliu.myds.me:8088/rtp/239.69.1.247:11124
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="央视频道",CCTV16-4K
-http://119.98.88.186:4022/rtp/239.69.1.13:9718
-http://www.furymax.top:85/rtp/239.69.1.13:9718
-http://www.hiliu.myds.me:8088/rtp/239.69.1.13:9718
-#EXTINF:-1 tvg-id="CCTV16奥林匹克" tvg-name="CCTV16奥林匹克" group-title="央视频道",CCTV16奥林匹克-4K
-http://119.98.88.186:4022/rtp/239.69.1.249:11136
-http://www.furymax.top:85/rtp/239.69.1.249:11136
-http://www.hiliu.myds.me:8088/rtp/239.69.1.249:11136
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="央视频道",CCTV17
-http://58.248.112.205:8006/GD_CUCC/G_CCTV-17-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBflsNSUvoRXJq9Dxabd45ul6sEw7jHEWykLtxlHY3hJu
-http://www.furymax.top:85/rtp/239.69.1.152:10548
-http://www.hiliu.myds.me:8088/rtp/239.69.1.152:10548
-#EXTINF:-1 tvg-id="CCTV世界地理" tvg-name="CCTV世界地理" group-title="央视频道",CCTV世界地理
-http://119.98.88.186:4022/rtp/239.69.1.91:10186
-http://www.furymax.top:85/rtp/239.69.1.91:10186
-http://www.hiliu.myds.me:8088/rtp/239.69.1.91:10186
-#EXTINF:-1 tvg-id="CCTV兵器科技" tvg-name="CCTV兵器科技" group-title="央视频道",CCTV兵器科技
-http://119.98.88.186:4022/rtp/239.69.1.79:10114
-http://www.furymax.top:85/rtp/239.69.1.79:10114
-http://www.hiliu.myds.me:8088/rtp/239.69.1.79:10114
-#EXTINF:-1 tvg-id="CCTV央视台球" tvg-name="CCTV央视台球" group-title="央视频道",CCTV央视台球
-http://119.98.88.186:4022/rtp/239.69.1.98:10224
-http://www.furymax.top:85/rtp/239.69.1.98:10224
-http://www.hiliu.myds.me:8088/rtp/239.69.1.98:10224
-#EXTINF:-1 tvg-id="CCTV第一剧场" tvg-name="CCTV第一剧场" group-title="央视频道",CCTV第一剧场
-http://119.98.88.186:4022/rtp/239.69.1.74:10084
-http://www.furymax.top:85/rtp/239.69.1.74:10084
-http://www.hiliu.myds.me:8088/rtp/239.69.1.74:10084
-#EXTINF:-1 tvg-id="CCTV风云足球" tvg-name="CCTV风云足球" group-title="央视频道",CCTV风云足球
-http://119.98.88.186:4022/rtp/239.69.1.81:10126
-http://www.furymax.top:85/rtp/239.69.1.81:10126
-http://www.hiliu.myds.me:8088/rtp/239.69.1.81:10126
-#EXTINF:-1 tvg-id="CCTV高尔夫网球" tvg-name="CCTV高尔夫网球" group-title="央视频道",CCTV高尔夫网球
-http://119.98.88.186:4022/rtp/239.69.1.83:10138
-http://www.furymax.top:85/rtp/239.69.1.83:10138
-http://www.hiliu.myds.me:8088/rtp/239.69.1.83:10138
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://119.98.88.186:4022/rtp/239.69.1.108:10286
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://www.furymax.top:85/rtp/239.69.1.108:10286
-#EXTINF:-1 tvg-id="东南卫视" tvg-name="东南卫视" group-title="卫视频道",东南卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.108:10286
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://119.98.88.186:4022/rtp/239.254.96.142:8926
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://119.98.88.186:4022/rtp/239.69.1.173:10674
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://www.furymax.top:85/rtp/239.254.96.142:8926
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://www.furymax.top:85/rtp/239.69.1.173:10674
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.142:8926
-#EXTINF:-1 tvg-id="东方卫视" tvg-name="东方卫视" group-title="卫视频道",东方卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.173:10674
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://119.98.88.186:4022/rtp/239.254.96.141:8920
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://www.furymax.top:85/rtp/239.254.96.141:8920
-#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="卫视频道",北京卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.141:8920
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://119.98.88.186:4022/rtp/239.69.1.212:10914
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://www.furymax.top:85/rtp/239.69.1.212:10914
-#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="卫视频道",吉林卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.212:10914
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://119.98.88.186:4022/rtp/239.69.1.169:10650
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://www.furymax.top:85/rtp/239.69.1.169:10650
-#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="卫视频道",四川卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.169:10650
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://119.98.88.186:4022/rtp/239.69.1.68:10048
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://www.furymax.top:85/rtp/239.69.1.68:10048
-#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="卫视频道",天津卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.68:10048
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://119.98.88.186:4022/rtp/239.69.1.70:10060
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://www.furymax.top:85/rtp/239.69.1.70:10060
-#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="卫视频道",安徽卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.70:10060
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://119.98.88.186:4022/rtp/239.69.1.69:10054
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://www.furymax.top:85/rtp/239.69.1.69:10054
-#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="卫视频道",山东卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.69:10054
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://119.98.88.186:4022/rtp/239.254.96.140:8914
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://www.furymax.top:85/rtp/239.254.96.140:8914
-#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="卫视频道",广东卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.140:8914
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://119.98.88.186:4022/rtp/239.69.1.191:10788
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://www.furymax.top:85/rtp/239.69.1.191:10788
-#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="卫视频道",广西卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.191:10788
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://119.98.88.186:4022/rtp/239.254.96.144:8938
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://119.98.88.186:4022/rtp/239.69.1.174:10680
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://www.furymax.top:85/rtp/239.254.96.144:8938
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://www.furymax.top:85/rtp/239.69.1.174:10680
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.144:8938
-#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="卫视频道",江苏卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.174:10680
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://119.98.88.186:4022/rtp/239.69.1.126:10394
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://www.furymax.top:85/rtp/239.69.1.126:10394
-#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="卫视频道",江西卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.126:10394
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://119.98.88.186:4022/rtp/239.254.96.113:9616
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://119.98.88.186:4022/rtp/239.69.1.157:10578
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://www.furymax.top:85/rtp/239.254.96.113:9616
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://www.furymax.top:85/rtp/239.69.1.157:10578
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.113:9616
-#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="卫视频道",河北卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.157:10578
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://119.98.88.186:4022/rtp/239.69.1.168:10644
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://www.furymax.top:85/rtp/239.69.1.168:10644
-#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="卫视频道",河南卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.168:10644
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://119.98.88.186:4022/rtp/239.254.96.143:8932
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://www.furymax.top:85/rtp/239.254.96.143:8932
-#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="卫视频道",浙江卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.143:8932
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://119.98.88.186:4022/rtp/239.69.1.151:10542
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://www.furymax.top:85/rtp/239.69.1.151:10542
-#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="卫视频道",海南卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.151:10542
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://119.98.88.186:4022/rtp/239.254.96.137:8896
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://www.furymax.top:85/rtp/239.254.96.137:8896
-#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="卫视频道",深圳卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.137:8896
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视优选
-http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfm12jp2Xf%2BoEVOwZjj0vsuZv6kEjBfquqPtTBEwcGKG
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://www.furymax.top:85/rtp/239.254.96.115:8664
-#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="卫视频道",湖北卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.115:8664
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视优选
-http://58.248.112.205:8006/GD_CUCC/G_HUNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHRo9Db0sT8QFSkrF29I7qMlTsBzPp9x%2Bi0NFonroQm9c
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://www.furymax.top:85/rtp/239.254.96.139:8908
-#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="卫视频道",湖南卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.139:8908
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://119.98.88.186:4022/rtp/239.69.1.150:10536
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://www.furymax.top:85/rtp/239.69.1.150:10536
-#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="卫视频道",贵州卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.150:10536
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://119.98.88.186:4022/rtp/239.69.1.71:10066
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://www.furymax.top:85/rtp/239.69.1.71:10066
-#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="卫视频道",辽宁卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.71:10066
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://119.98.88.186:4022/rtp/239.69.1.149:10530
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://www.furymax.top:85/rtp/239.69.1.149:10530
-#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="卫视频道",重庆卫视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.149:10530
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://119.98.88.186:4022/rtp/239.254.96.138:8902
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://www.furymax.top:85/rtp/239.254.96.138:8902
-#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="卫视频道",黑龙江卫视
-http://www.hiliu.myds.me:8088/rtp/239.254.96.138:8902
-#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="卫视频道",陕西卫视优选
-http://58.248.112.205:8006/GD_CUCC/G_SHANXI-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHe8cMCaTgpWWUaOfH%2BZI9az1BWtWU81eWqPvN0PhI2pD
-#EXTINF:-1,CETV1
-http://119.98.88.186:4022/rtp/239.69.1.110:10298
-#EXTINF:-1,CETV1
-http://www.furymax.top:85/rtp/239.69.1.110:10298
-#EXTINF:-1,CETV1
-http://www.hiliu.myds.me:8088/rtp/239.69.1.110:10298
-#EXTINF:-1,爱上4K
-http://119.98.88.186:4022/rtp/239.69.1.141:10482
-#EXTINF:-1,爱上4K
-http://www.furymax.top:85/rtp/239.69.1.141:10482
-#EXTINF:-1,爱上4K
-http://www.hiliu.myds.me:8088/rtp/239.69.1.141:10482
-#EXTINF:-1,CHC-动作电影
-http://119.98.88.186:4022/rtp/239.69.1.242:11094
-#EXTINF:-1,CHC-动作电影
-http://www.furymax.top:85/rtp/239.69.1.242:11094
-#EXTINF:-1,CHC-动作电影
-http://www.hiliu.myds.me:8088/rtp/239.69.1.242:11094
-#EXTINF:-1,CHC-家庭影院
-http://119.98.88.186:4022/rtp/239.69.1.243:11100
-#EXTINF:-1,CHC-家庭影院
-http://www.furymax.top:85/rtp/239.69.1.243:11100
-#EXTINF:-1,CHC-家庭影院
-http://www.hiliu.myds.me:8088/rtp/239.69.1.243:11100
-#EXTINF:-1,CHC-高清电影
-http://119.98.88.186:4022/rtp/239.69.1.241:11088
-#EXTINF:-1,CHC-高清电影
-http://www.furymax.top:85/rtp/239.69.1.241:11088
-#EXTINF:-1,CHC-高清电影
-http://www.hiliu.myds.me:8088/rtp/239.69.1.241:11088
-#EXTINF:-1,卡酷少儿
-http://119.98.88.186:4022/rtp/239.69.1.193:10800
-#EXTINF:-1,卡酷少儿
-http://www.furymax.top:85/rtp/239.69.1.193:10800
-#EXTINF:-1,卡酷少儿
-http://www.hiliu.myds.me:8088/rtp/239.69.1.193:10800
-#EXTINF:-1,快乐垂钓
-http://119.98.88.186:4022/rtp/239.69.1.142:10488
-#EXTINF:-1,快乐垂钓
-http://www.furymax.top:85/rtp/239.69.1.142:10488
-#EXTINF:-1,快乐垂钓
-http://www.hiliu.myds.me:8088/rtp/239.69.1.142:10488
-#EXTINF:-1,房县综合
-http://119.98.88.186:4022/rtp/239.69.1.192:10794
-#EXTINF:-1,房县综合
-http://www.furymax.top:85/rtp/239.69.1.192:10794
-#EXTINF:-1,房县综合
-http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
-#EXTINF:-1,梨园频道
-http://119.98.88.186:4022/rtp/239.69.1.33:9838
-#EXTINF:-1,梨园频道
-http://www.furymax.top:85/rtp/239.69.1.33:9838
-#EXTINF:-1,梨园频道
-http://www.hiliu.myds.me:8088/rtp/239.69.1.33:9838
-#EXTINF:-1,武术世界
-http://119.98.88.186:4022/rtp/239.69.1.47:9922
-#EXTINF:-1,武术世界
-http://www.furymax.top:85/rtp/239.69.1.47:9922
-#EXTINF:-1,武术世界
-http://www.hiliu.myds.me:8088/rtp/239.69.1.47:9922
-#EXTINF:-1,武汉一台新闻综合
-http://119.98.88.186:4022/rtp/239.69.1.145:10506
-#EXTINF:-1,武汉一台新闻综合
-http://www.furymax.top:85/rtp/239.69.1.145:10506
-#EXTINF:-1,武汉一台新闻综合
-http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
-#EXTINF:-1,武汉三台科技生活
-http://119.98.88.186:4022/rtp/239.69.1.251:11148
-#EXTINF:-1,武汉三台科技生活
-http://www.furymax.top:85/rtp/239.69.1.251:11148
-#EXTINF:-1,武汉三台科技生活
-http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
-#EXTINF:-1,武汉二台电视剧
-http://119.98.88.186:4022/rtp/239.69.1.146:10512
-#EXTINF:-1,武汉二台电视剧
-http://www.furymax.top:85/rtp/239.69.1.146:10512
-#EXTINF:-1,武汉二台电视剧
-http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
-#EXTINF:-1,武汉五台文体
-http://119.98.88.186:4022/rtp/239.69.1.147:10518
-#EXTINF:-1,武汉五台文体
-http://www.furymax.top:85/rtp/239.69.1.147:10518
-#EXTINF:-1,武汉五台文体
-http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
-#EXTINF:-1,武汉六台外语
-http://119.98.88.186:4022/rtp/239.69.1.36:9856
-#EXTINF:-1,武汉六台外语
-http://www.furymax.top:85/rtp/239.69.1.36:9856
-#EXTINF:-1,武汉六台外语
-http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
-#EXTINF:-1,武汉四台经济
-http://119.98.88.186:4022/rtp/239.69.1.35:9850
-#EXTINF:-1,武汉四台经济
-http://www.furymax.top:85/rtp/239.69.1.35:9850
-#EXTINF:-1,武汉四台经济
-http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
-#EXTINF:-1,武汉教育
-http://119.98.88.186:4022/rtp/239.69.1.60:9994
-#EXTINF:-1,武汉教育
-http://www.furymax.top:85/rtp/239.69.1.60:9994
-#EXTINF:-1,武汉教育
-http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
-#EXTINF:-1,湖北公共新闻
-http://119.98.88.186:4022/rtp/239.69.1.40:9880
-#EXTINF:-1,湖北公共新闻
-http://www.furymax.top:85/rtp/239.69.1.40:9880
-#EXTINF:-1,湖北公共新闻
-http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
-#EXTINF:-1,湖北垄上
-http://119.98.88.186:4022/rtp/239.69.1.43:9898
-#EXTINF:-1,湖北垄上
-http://www.furymax.top:85/rtp/239.69.1.43:9898
-#EXTINF:-1,湖北垄上
-http://www.hiliu.myds.me:8088/rtp/239.69.1.43:9898
-#EXTINF:-1,湖北影视
-http://119.98.88.186:4022/rtp/239.69.1.204:10866
-#EXTINF:-1,湖北影视
-http://www.furymax.top:85/rtp/239.69.1.204:10866
-#EXTINF:-1,湖北影视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.204:10866
-#EXTINF:-1,湖北教育
-http://119.98.88.186:4022/rtp/239.69.1.206:10878
-#EXTINF:-1,湖北教育
-http://www.furymax.top:85/rtp/239.69.1.206:10878
-#EXTINF:-1,湖北教育
-http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
-#EXTINF:-1,湖北生活
-http://119.98.88.186:4022/rtp/239.69.1.205:10872
-#EXTINF:-1,湖北生活
-http://www.furymax.top:85/rtp/239.69.1.205:10872
-#EXTINF:-1,湖北生活
-http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
-#EXTINF:-1,湖北经视
-http://119.98.88.186:4022/rtp/239.69.1.41:9886
-#EXTINF:-1,湖北经视
-http://www.furymax.top:85/rtp/239.69.1.41:9886
-#EXTINF:-1,湖北经视
-http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
-#EXTINF:-1,湖北综合
-http://119.98.88.186:4022/rtp/239.69.1.42:9892
-#EXTINF:-1,湖北综合
-http://www.furymax.top:85/rtp/239.69.1.42:9892
-#EXTINF:-1,湖北综合
-http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
-#EXTINF:-1,茶频道
-http://119.98.88.186:4022/rtp/239.69.1.144:10500
-#EXTINF:-1,茶频道
-http://www.furymax.top:85/rtp/239.69.1.144:10500
-#EXTINF:-1,茶频道
-http://www.hiliu.myds.me:8088/rtp/239.69.1.144:10500
-#EXTINF:-1,蔡甸综合
-http://119.98.88.186:4022/rtp/239.69.1.245:11112
-#EXTINF:-1,蔡甸综合
-http://www.furymax.top:85/rtp/239.69.1.245:11112
-#EXTINF:-1,蔡甸综合
-http://www.hiliu.myds.me:8088/rtp/239.69.1.245:11112
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://119.98.88.186:4022/rtp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://www.furymax.top:85/rtp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" group-title="其他频道",金鹰卡通
-http://www.hiliu.myds.me:8088/rtp/239.69.1.248:11130
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
-http://119.98.88.186:4022/rtp/239.69.1.109:10292
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
-http://www.furymax.top:85/rtp/239.69.1.109:10292
-#EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" group-title="其他频道",金鹰纪实
-http://www.hiliu.myds.me:8088/rtp/239.69.1.109:10292
-#EXTINF:-1,阳新综合
-http://119.98.88.186:4022/rtp/239.69.1.34:9844
-#EXTINF:-1,阳新综合
-http://www.furymax.top:85/rtp/239.69.1.34:9844
-#EXTINF:-1,阳新综合
-http://www.hiliu.myds.me:8088/rtp/239.69.1.34:9844
 #EXTM3U x-tvg-url="https://epg.112114.xyz/pp.xml.gz,https://assets.livednow.com/epg.xml"
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
