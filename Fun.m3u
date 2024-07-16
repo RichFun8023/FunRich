@@ -1,4 +1,165 @@
 #EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳湖北移动IPV6",CCTV1
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🇨🇳湖北移动IPV6",CCTV2
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🇨🇳湖北移动IPV6",CCTV3
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🇨🇳湖北移动IPV6",CCTV4
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳湖北移动IPV6",CCTV5
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳湖北移动IPV6",CCTV5+
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="🇨🇳湖北移动IPV6",CCTV6
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🇨🇳湖北移动IPV6",CCTV7
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🇨🇳湖北移动IPV6",CCTV8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🇨🇳湖北移动IPV6",CCTV9
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🇨🇳湖北移动IPV6",CCTV10
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🇨🇳湖北移动IPV6",CCTV11
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🇨🇳湖北移动IPV6",CCTV12
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🇨🇳湖北移动IPV6",CCTV13
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🇨🇳湖北移动IPV6",CCTV14
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🇨🇳湖北移动IPV6",CCTV15
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🇨🇳湖北移动IPV6",CCTV16非湖北
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🇨🇳湖北移动IPV6",CCTV17非湖北
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="🇨🇳湖北移动IPV6",CCTV4K非湖北
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1 tvg-id="湖南卫视" tvg-name="湖南卫视" group-title="🇨🇳湖北移动IPV6",湖南卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181358BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="🇨🇳湖北移动IPV6",湖北卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911989BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北公共·新闻" tvg-name="湖北公共·新闻" group-title="🇨🇳湖北移动IPV6",湖北公共·新闻
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380726d0ee3b/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北教育" tvg-name="湖北教育" group-title="🇨🇳湖北移动IPV6",湖北教育
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072a6cbbf6/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北经视" tvg-name="湖北经视" group-title="🇨🇳湖北移动IPV6",湖北经视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807203543e3/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北垄上" tvg-name="湖北垄上" group-title="🇨🇳湖北移动IPV6",湖北垄上
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072463c333/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北生活" tvg-name="湖北生活" group-title="🇨🇳湖北移动IPV6",湖北生活
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072c62e405/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北影视" tvg-name="湖北影视" group-title="🇨🇳湖北移动IPV6",湖北影视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380728abccd2/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖北综合" tvg-name="湖北综合" group-title="🇨🇳湖北移动IPV6",湖北综合
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638072216f7da/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南金鹰卡通" tvg-name="湖南金鹰卡通" group-title="🇨🇳湖北移动IPV6",湖南金鹰卡通
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000057BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南快乐垂钓" tvg-name="湖南快乐垂钓" group-title="🇨🇳湖北移动IPV6",湖南快乐垂钓
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729b6002c4/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="湖南茶" tvg-name="湖南茶" group-title="🇨🇳湖北移动IPV6",湖南茶
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638729d8aca53/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" group-title="🇨🇳湖北移动IPV6",陕西卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN7105BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="上海东方卫视" tvg-name="上海东方卫视" group-title="🇨🇳湖北移动IPV6",上海东方卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111131BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="山东卫视" tvg-name="山东卫视" group-title="🇨🇳湖北移动IPV6",山东卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN911992BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="安徽卫视" tvg-name="安徽卫视" group-title="🇨🇳湖北移动IPV6",安徽卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540416BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="吉林卫视" tvg-name="吉林卫视" group-title="🇨🇳湖北移动IPV6",吉林卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000046BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江苏卫视" tvg-name="江苏卫视" group-title="🇨🇳湖北移动IPV6",江苏卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111129BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="江西卫视" tvg-name="江西卫视" group-title="🇨🇳湖北移动IPV6",江西卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3468921BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="辽宁卫视" tvg-name="辽宁卫视" group-title="🇨🇳湖北移动IPV6",辽宁卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450001BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="深圳卫视" tvg-name="深圳卫视" group-title="🇨🇳湖北移动IPV6",深圳卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181362BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="四川卫视" tvg-name="四川卫视" group-title="🇨🇳湖北移动IPV6",四川卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840706BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="天津卫视" tvg-name="天津卫视" group-title="🇨🇳湖北移动IPV6",天津卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3450000BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="浙江卫视" tvg-name="浙江卫视" group-title="🇨🇳湖北移动IPV6",浙江卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111130BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="北京卫视" tvg-name="北京卫视" group-title="🇨🇳湖北移动IPV6",北京卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181361BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="福建东南卫视" tvg-name="福建东南卫视" group-title="🇨🇳湖北移动IPV6",福建东南卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3540417BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="广东卫视" tvg-name="广东卫视" group-title="🇨🇳湖北移动IPV6",广东卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181359BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="广西卫视" tvg-name="广西卫视" group-title="🇨🇳湖北移动IPV6",广西卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000045BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="贵州卫视" tvg-name="贵州卫视" group-title="🇨🇳湖北移动IPV6",贵州卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252663BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="海南卫视" tvg-name="海南卫视" group-title="🇨🇳湖北移动IPV6",海南卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN4252684BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="河北卫视" tvg-name="河北卫视" group-title="🇨🇳湖北移动IPV6",河北卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN100000002BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="河南卫视" tvg-name="河南卫视" group-title="🇨🇳湖北移动IPV6",河南卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000044BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="黑龙江卫视" tvg-name="黑龙江卫视" group-title="🇨🇳湖北移动IPV6",黑龙江卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN181356BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="内蒙古卫视" tvg-name="内蒙古卫视" group-title="🇨🇳湖北移动IPV6",内蒙古卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN79469BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="西藏卫视" tvg-name="西藏卫视" group-title="🇨🇳湖北移动IPV6",西藏卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN77574BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="宁夏卫视" tvg-name="宁夏卫视" group-title="🇨🇳湖北移动IPV6",宁夏卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN160782BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="重庆卫视" tvg-name="重庆卫视" group-title="🇨🇳湖北移动IPV6",重庆卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3840707BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="山西卫视" tvg-name="山西卫视" group-title="🇨🇳湖北移动IPV6",山西卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN1344BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="新疆卫视" tvg-name="新疆卫视" group-title="🇨🇳湖北移动IPV6",新疆卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126387BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="青海卫视" tvg-name="青海卫视" group-title="🇨🇳湖北移动IPV6",青海卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN67026BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="兵团卫视" tvg-name="兵团卫视" group-title="🇨🇳湖北移动IPV6",兵团卫视
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN126389BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="梨园频道" tvg-name="梨园频道" group-title="🇨🇳湖北移动IPV6",梨园频道
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380788ba7bed/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="文物宝库" tvg-name="文物宝库" group-title="🇨🇳湖北移动IPV6",文物宝库
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078a346161/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="武术世界" tvg-name="武术世界" group-title="🇨🇳湖北移动IPV6",武术世界
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638078be5d654/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="北京卡酷少儿" tvg-name="北京卡酷少儿" group-title="🇨🇳湖北移动IPV6",北京卡酷少儿
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN164297BESTVSMGSMG9/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="中国教育1" tvg-name="中国教育1" group-title="🇨🇳湖北移动IPV6",中国教育1
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3138605BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="第一剧场" tvg-name="第一剧场" tvg-logo="https://epg.v1.mk/logo/第一剧场.png" group-title="🇨🇳湖北移动IPV6",第一剧场
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="风云足球" tvg-name="风云足球" tvg-logo="https://epg.v1.mk/logo/风云足球.png" group-title="🇨🇳湖北移动IPV6",风云足球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="兵器科技" tvg-name="兵器科技" tvg-logo="https://epg.v1.mk/logo/兵器科技.png" group-title="🇨🇳湖北移动IPV6",兵器科技
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="世界地理" tvg-name="世界地理" tvg-logo="https://epg.v1.mk/logo/世界地理.png" group-title="🇨🇳湖北移动IPV6",世界地理
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="央视台球" tvg-name="央视台球" tvg-logo="https://epg.v1.mk/logo/央视台球.png" group-title="央视",央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="高尔夫网球" tvg-name="高尔夫网球" tvg-logo="https://epg.v1.mk/logo/高尔夫网球.png" group-title="🇨🇳湖北移动IPV6",高尔夫网球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CHC家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://epg.v1.mk/logo/CHC家庭影院.png" group-title="🇨🇳湖北移动IPV6",CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="chc高清电影" tvg-name="chc高清电影" tvg-logo="https://epg.v1.mk/logo/chc高清电影.png" group-title="🇨🇳湖北移动IPV6",CHC高清电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CHC动作电影" tvg-name="CHC动作电影" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN阿拉伯语" tvg-name="CGTN阿拉伯语" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN阿拉伯语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN西班牙语" tvg-name="CGTN西班牙语" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN西班牙语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f81c8eb5/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN俄语" tvg-name="CGTN俄语" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN俄语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638071d299009/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN法语" tvg-name="CGTN法语" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN法语
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN记录" tvg-name="CGTN记录" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN记录
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
+#EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1优选
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-1-CQ.m3u8?Authinfo=F8UQ%2BEevMmd%2FnekE5YOOKkjJ6yQpJZ9CGFM9sHS3VdiLvaf2eXKnEWpoNjJ53rwe
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="央视频道",CCTV1
@@ -858,61 +1019,3 @@ http://live.iill.top/huya.php?id=11601966
 http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•影视",中华小当家「动漫」
 http://live.iill.top/huya.php?id=11342413
-
-#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
-#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳央视频道",CCTV1
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🇨🇳央视频道",CCTV2
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🇨🇳央视频道",CCTV3
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🇨🇳央视频道",CCTV4
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳央视频道",CCTV5
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳央视频道",CCTV5+
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="🇨🇳央视频道",CCTV6
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🇨🇳央视频道",CCTV7
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🇨🇳央视频道",CCTV8
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🇨🇳央视频道",CCTV9
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🇨🇳央视频道",CCTV10
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🇨🇳央视频道",CCTV11
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🇨🇳央视频道",CCTV12
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🇨🇳央视频道",CCTV13
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🇨🇳央视频道",CCTV14
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🇨🇳央视频道",CCTV15
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🇨🇳央视频道",CCTV16
-http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🇨🇳央视频道",CCTV17
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
-#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="🇨🇳央视频道",CCTV4K
-http://159.75.85.63:5679/cctv4k.php
-#EXTINF:-1,第一剧场
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?m3u8_level=2
-#EXTINF:-1,风云足球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
-#EXTINF:-1,兵器科技
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?m3u8_level=2
-#EXTINF:-1,世界地理
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?m3u8_level=2
-#EXTINF:-1,央视台球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?m3u8_level=2
-#EXTINF:-1,高尔夫网球
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?m3u8_level=2
-#EXTINF:-1,CHC家庭影院
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-#EXTINF:-1,CHC高清电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-#EXTINF:-1,CHC动作电影
-http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
