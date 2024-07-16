@@ -264,10 +264,12 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
 http://119.98.88.186:4022/rtp/239.69.1.60:9994
 http://www.furymax.top:85/rtp/239.69.1.60:9994
 http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",CETV1
+#EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",早期教育
 http://58.248.112.205:8006/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfBTjPwd8%2BrlHZirjuzwIZ3hYb6%2BTtXZQ7TPENg7f2xf
 http://www.furymax.top:85/rtp/239.69.1.110:10298
 http://www.hiliu.myds.me:8088/rtp/239.69.1.110:10298
+#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",CETV1
+http://58.248.112.205:8006/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZgEcPJzku%2FK%2BhOejG8m3LLDzTKwBfpzpjpJgpyYO6Z%2F
 #EXTINF:-1,tvg-id="爱上4k" tvg-name="爱上4k" tvg-logo="https://epg.v1.mk/logo/爱上4k.png" group-title="其他频道",爱上4K
 http://119.98.88.186:4022/rtp/239.69.1.141:10482
 http://www.furymax.top:85/rtp/239.69.1.141:10482
