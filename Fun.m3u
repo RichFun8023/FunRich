@@ -859,34 +859,60 @@ http://live.iill.top/huya.php?id=11352879
 #EXTINF:-1 tvg-logo="https://yang-1989.eu.org/logo/虎牙.png" group-title="•影视",中华小当家「动漫」
 http://live.iill.top/huya.php?id=11342413
 
----湖北移动---,#genre#
-
-🇨🇳央视频道,#genre#
-CCTV1,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV2,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV3,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
-CCTV4,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV5,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
-CCTV5+,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
-CCTV6,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
-CCTV7,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV8,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
-CCTV9,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV10,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV11,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV12,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV13,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV14,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV15,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
-CCTV16,http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
-CCTV17,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
-CCTV4K,http://159.75.85.63:5679/cctv4k.php
-第一剧场,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?m3u8_level=2
-风云足球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
-兵器科技,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?m3u8_level=2
-世界地理,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?m3u8_level=2
-央视台球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?m3u8_level=2
-高尔夫网球,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?m3u8_level=2
-CHC家庭影院,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
-CHC高清电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
-CHC动作电影,http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
+#EXTM3U x-tvg-url=http://epg.51zmt.top:8000/cc.xml,http://epg.51zmt.top:8000/difang.xml
+#EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳央视频道",CCTV1
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🇨🇳央视频道",CCTV2
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000036BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" group-title="🇨🇳央视频道",CCTV3
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727c125355/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" group-title="🇨🇳央视频道",CCTV4
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000037BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳央视频道",CCTV5
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638727e617ca0/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" group-title="🇨🇳央视频道",CCTV5+
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63872908d48f9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="🇨🇳央视频道",CCTV6
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728804b1f9/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" group-title="🇨🇳央视频道",CCTV7
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000038BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" group-title="🇨🇳央视频道",CCTV8
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728970aa82/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" group-title="🇨🇳央视频道",CCTV9
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000039BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" group-title="🇨🇳央视频道",CCTV10
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949784BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" group-title="🇨🇳央视频道",CCTV11
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000053BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" group-title="🇨🇳央视频道",CCTV12
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN5000040BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" group-title="🇨🇳央视频道",CCTV13
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000054BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" group-title="🇨🇳央视频道",CCTV14
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN3949788BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" group-title="🇨🇳央视频道",CCTV15
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6000055BESTVSMGSMG/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" group-title="🇨🇳央视频道",CCTV16
+http://ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+#EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" group-title="🇨🇳央视频道",CCTV17
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638728afa13b4/index.m3u8?m3u8_level=2
+#EXTINF:-1 tvg-id="CCTV4k" tvg-name="CCTV4k" group-title="🇨🇳央视频道",CCTV4K
+http://159.75.85.63:5679/cctv4k.php
+#EXTINF:-1,第一剧场
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077f5ca035/index.m3u8?m3u8_level=2
+#EXTINF:-1,风云足球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077160c04a/index.m3u8?m3u8_level=2
+#EXTINF:-1,兵器科技
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077907bdcd/index.m3u8?m3u8_level=2
+#EXTINF:-1,世界地理
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN638077a61f4f3/index.m3u8?m3u8_level=2
+#EXTINF:-1,央视台球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380775932cff/index.m3u8?m3u8_level=2
+#EXTINF:-1,高尔夫网球
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807743b61bb/index.m3u8?m3u8_level=2
+#EXTINF:-1,CHC家庭影院
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63807601b19dd/index.m3u8?m3u8_level=2
+#EXTINF:-1,CHC高清电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380764b172c9/index.m3u8?m3u8_level=2
+#EXTINF:-1,CHC动作电影
+http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN6380763222d00/index.m3u8?m3u8_level=2
