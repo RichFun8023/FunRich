@@ -27,11 +27,11 @@ http://www.hiliu.myds.me:8088/rtp/239.254.96.234:9484
 http://www.yao87.com:4022/udp/239.76.246.7:1234
 http://ixgsgpsa.mi4.xyz:8888/udp/239.76.246.7:1234
 http://60.164.229.63:4040/udp/239.255.30.50:8231
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="央视频道",湖南电信甘肃电信组播
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="湖南电信甘肃电信组播" group-title="央视频道",凤凰资讯
 http://www.yao87.com:4022/udp/239.76.246.8:1234
 http://ixgsgpsa.mi4.xyz:8888/udp/239.76.246.8:1234
 http://60.164.229.63:4040/udp/239.255.30.70:8231
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="央视频道",湖南电信甘肃电信组播
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="湖南电信甘肃电信组播" group-title="央视频道",凤凰香港
 http://www.yao87.com:4022/udp/239.76.246.9:1234
 http://ixgsgpsa.mi4.xyz:8888/udp/239.76.246.9:1234
 http://60.164.229.241:4040/udp/239.255.30.123:8231
