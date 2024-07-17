@@ -299,8 +299,14 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
 http://119.98.88.186:4022/rtp/239.69.1.245:11112
 http://www.furymax.top:85/rtp/239.69.1.245:11112
 http://www.hiliu.myds.me:8088/rtp/239.69.1.245:11112
-
-
+#EXTINF:-1,tvg-id="天门电视台" tvg-name="天门电视台" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",天门电视台
+http://www.furymax.top:85/rtp/239.254.100.84:8478
+http://www.hiliu.myds.me:8088/rtp/239.254.100.84:8478
+http://119.98.88.186:4022/rtp/239.254.100.84:8478
+#EXTINF:-1,tvg-id="天门农业" tvg-name="天门农业" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",天门农业
+http://www.furymax.top:85/rtp/239.254.100.89:8508
+http://www.hiliu.myds.me:8088/rtp/239.254.100.89:8508
+http://119.98.88.186:4022/rtp/239.254.100.89:8508
 
 
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",早期教育
