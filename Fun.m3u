@@ -33,8 +33,8 @@ http://60.164.229.63:4040/udp/239.255.30.50:8231
 http://42.91.62.170:10000/udp/239.255.30.50:8231
 http://tv.scyqgyl.cn:8200/udp/239.93.0.162:2192
 http://tv.scyqgyl.cn:8100/udp/239.93.0.162:2192
-http://wouu.net:9977/udp/239.93.0.162:2192
-http://wouu.net:9977/udp/239.93.1.9:2192
+http://l2tp-vpn.tpddns.cn:8081/udp/239.93.0.162:2192
+http://dalin.x3322.net:8888/udp/239.93.1.9:2192
 http://xeace.cn:8888/udp/239.93.0.162:2192
 http://xeace.cn:8888/udp/239.93.1.9:2192
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="甘肃电信四川电信(浙江电信备用)组播" group-title="央视频道",凤凰资讯
@@ -46,6 +46,8 @@ http://wouu.net:9977/udp/239.93.0.118:2191
 http://wouu.net:9977/udp/239.93.1.4:2191
 http://xeace.cn:8888/udp/239.93.0.118:2191
 http://xeace.cn:8888/udp/239.93.1.4:2191
+http://l2tp-vpn.tpddns.cn:8081/udp/239.93.1.4:2191
+http://dalin.x3322.net:8888/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="甘肃电信组播" group-title="央视频道",凤凰香港
 http://60.164.229.63:4040/udp/239.255.30.123:8231
 http://42.91.62.170:10000/udp/239.255.30.123:8231
