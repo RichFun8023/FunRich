@@ -24,14 +24,11 @@ http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2
 http://www.furymax.top:85/rtp/239.254.96.234:9484
 http://www.hiliu.myds.me:8088/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="凤凰中文" group-title="央视频道",凤凰中文
+http://www.yao87.com:4022/udp/239.76.246.7:1234
 http://guany.myds.me:25852/udp/233.50.200.42:5140
 http://guany.myds.me:25852/udp/233.50.200.191:5140
-http://42.91.62.178:10000/udp/239.255.30.50:8231
-http://60.164.229.63:4040/udp/239.255.30.50:8231
-http://101.204.222.84:4022/udp/239.93.0.162:2192
-http://183.155.163.46:8888/udp/233.50.200.42:5140
-http://58.223.166.16/live2.rxip.sc96655.com/live/test1_4000.m3u8
 #EXTINF:-1 tvg-id="凤凰资讯" tvg-name="凤凰资讯" group-title="央视频道",凤凰资讯
+http://www.yao87.com:4022/udp/239.76.246.8:1234
 http://guany.myds.me:25852/udp/233.50.200.192:5140
 http://42.91.62.178:10000/udp/239.255.30.70:8231
 http://60.164.229.63:4040/udp/239.255.30.70:8231
@@ -39,6 +36,7 @@ http://101.204.222.84:4022/udp/239.93.0.118:2191
 http://116.236.236.226:7003/live/PhxInfoNewsLow/hls.m3u8
 http://58.223.166.16/live2.rxip.sc96655.com/live/test2_4000.m3u8
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="凤凰香港" group-title="央视频道",凤凰香港
+http://www.yao87.com:4022/udp/239.76.246.9:1234
 http://guany.myds.me:25852/udp/233.50.200.193:5140
 http://42.91.62.178:10000/udp/239.255.30.123:8231
 http://60.164.229.63:4040/udp/239.255.30.123:8231
