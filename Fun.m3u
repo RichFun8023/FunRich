@@ -229,14 +229,28 @@ http://www.hiliu.myds.me:8088/rtp/239.254.96.138:8902
 http://58.248.112.205:8006/GD_CUCC/G_YUNNAN-CQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHcpOXbCYIiVElKHA3dFAzTD1BWtWU81eWqPvN0PhI2pD
 #EXTINF:-1 tvg-id="三沙卫视" tvg-name="三沙卫视" group-title="卫视频道",三沙卫视
 http://58.248.112.205:8006/GD_CUCC/G_SANSHA-HQ.m3u8?Authinfo=3iRp8RZG1d3hGsaPmj%2FtHVaHhm7EfB24tSDTA%2B4ZUJz1BWtWU81eWqPvN0PhI2pD
-#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="湖北频道",湖北公共新闻
-http://119.98.88.186:4022/rtp/239.69.1.40:9880
-http://www.furymax.top:85/rtp/239.69.1.40:9880
-http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
+
+
+#EXTINF:-1 tvg-id="湖北卫视" tvg-name="湖北卫视" group-title="湖北频道",湖北卫视
+http://58.248.112.205:8006/GD_CUCC/G_HUBEI-CQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfm12jp2Xf%2BoEVOwZjj0vsuZv6kEjBfquqPtTBEwcGKG
+http://www.furymax.top:85/rtp/239.254.96.115:8664
+http://www.hiliu.myds.me:8088/rtp/239.254.96.115:8664
+#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="湖北频道",湖北经视
+http://www.furymax.top:85/rtp/239.69.1.41:9886
+http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
+http://119.98.88.186:4022/rtp/239.69.1.41:9886
+#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="湖北频道",湖北综合
+http://www.furymax.top:85/rtp/239.69.1.42:9892
+http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
+http://119.98.88.186:4022/rtp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="湖北垄上" tvg-name="湖北垄上" tvg-logo="https://epg.v1.mk/logo/湖北垄上.png" group-title="湖北频道",湖北垄上
-http://119.98.88.186:4022/rtp/239.69.1.43:9898
 http://www.furymax.top:85/rtp/239.69.1.43:9898
 http://www.hiliu.myds.me:8088/rtp/239.69.1.43:9898
+http://119.98.88.186:4022/rtp/239.69.1.43:9898
+#EXTINF:-1,tvg-id="湖北公共新闻1" tvg-name="湖北公共新闻1" tvg-logo="https://epg.v1.mk/logo/湖北公共新闻1.png" group-title="湖北频道",湖北公共新闻
+http://www.furymax.top:85/rtp/239.69.1.40:9880
+http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
+http://119.98.88.186:4022/rtp/239.69.1.40:9880
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="湖北频道",湖北影视
 http://119.98.88.186:4022/rtp/239.69.1.204:10866
 http://www.furymax.top:85/rtp/239.69.1.204:10866
@@ -249,14 +263,6 @@ http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
 http://119.98.88.186:4022/rtp/239.69.1.205:10872
 http://www.furymax.top:85/rtp/239.69.1.205:10872
 http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
-#EXTINF:-1,tvg-id="湖北经视" tvg-name="湖北经视" tvg-logo="https://epg.v1.mk/logo/湖北经视.png" group-title="湖北频道",湖北经视
-http://119.98.88.186:4022/rtp/239.69.1.41:9886
-http://www.furymax.top:85/rtp/239.69.1.41:9886
-http://www.hiliu.myds.me:8088/rtp/239.69.1.41:9886
-#EXTINF:-1,tvg-id="湖北综合" tvg-name="湖北综合" tvg-logo="https://epg.v1.mk/logo/湖北综合.png" group-title="湖北频道",湖北综合
-http://119.98.88.186:4022/rtp/239.69.1.42:9892
-http://www.furymax.top:85/rtp/239.69.1.42:9892
-http://www.hiliu.myds.me:8088/rtp/239.69.1.42:9892
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉一台新闻综合
 http://119.98.88.186:4022/rtp/239.69.1.145:10506
 http://www.furymax.top:85/rtp/239.69.1.145:10506
