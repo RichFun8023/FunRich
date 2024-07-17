@@ -24,20 +24,33 @@ http://58.248.112.205:8006/GD_CUCC/G_CCTV-5PLUS-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2
 http://www.furymax.top:85/rtp/239.254.96.234:9484
 http://www.hiliu.myds.me:8088/rtp/239.254.96.234:9484
 
-#EXTINF:-1 tvg-id="凤凰中文" tvg-name="甘肃电信浙江电信组播" group-title="央视频道",凤凰中文
+#EXTINF:-1 tvg-id="凤凰中文" tvg-name="甘肃电信浙江电信四川电信组播" group-title="央视频道",凤凰中文
 http://60.164.229.63:4040/udp/239.255.30.50:8231
-http://www.372583307.top:4022/udp/233.50.200.191:5140
+http://guany.myds.me:25852/udp/233.50.200.42:5140
 http://guany.myds.me:25852/udp/233.50.200.191:5140
 http://www.372583307.top:4022/udp/233.50.200.42:5140
-#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="甘肃电信浙江电信组播" group-title="央视频道",凤凰资讯
+http://www.372583307.top:4022/udp/233.50.200.191:5140
+http://wouu.net:9977/udp/239.93.0.162:2192
+http://wouu.net:9977/udp/239.93.1.9:2192
+http://xeace.cn:8888/udp/239.93.0.162:2192
+http://xeace.cn:8888/udp/239.93.1.9:2192
+#EXTINF:-1 tvg-id="凤凰资讯" tvg-name="甘肃电信浙江电信四川电信组播" group-title="央视频道",凤凰资讯
 http://60.164.229.63:4040/udp/239.255.30.70:8231
 http://www.372583307.top:4022/udp/233.50.200.192:5140
 http://guany.myds.me:25852/udp/233.50.200.192:5140
-#EXTINF:-1 tvg-id="凤凰香港" tvg-name="湖南电信组播" group-title="央视频道",凤凰香港
+http://wouu.net:9977/udp/239.93.0.118:2191
+http://wouu.net:9977/udp/239.93.1.4:2191
+http://xeace.cn:8888/udp/239.93.0.118:2191
+http://xeace.cn:8888/udp/239.93.1.4:2191
+#EXTINF:-1 tvg-id="凤凰香港" tvg-name="甘肃电信组播" group-title="央视频道",凤凰香港
+http://60.164.229.63:4040/udp/239.255.30.123:8231
 http://guany.myds.me:25852/udp/233.50.200.193:5140
-http://www.yao87.com:4022/udp/239.76.246.9:1234
-http://ixgsgpsa.mi4.xyz:8888/udp/239.76.246.9:1234
 http://www.372583307.top:4022/udp/233.50.200.193:5140
+#EXTINF:-1 tvg-id="星空" tvg-name="四川电信组播" group-title="央视频道",星空
+http://wouu.net:9977/udp/239.93.0.156:2193
+http://wouu.net:9977/udp/239.93.1.10:2193
+http://xeace.cn:8888/udp/239.93.0.156:2193
+http://xeace.cn:8888/udp/239.93.1.10:2193
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" group-title="央视频道",CCTV6
 http://58.248.112.205:8006/GD_CUCC/G_CCTV-6-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBdDMxs6M4VqBOY3wzfYh5Zn70IXSXFRQUc4GqtZY1Coe
