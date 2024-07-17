@@ -330,6 +330,10 @@ http://www.furymax.top:85/rtp/239.69.1.192:10794
 http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
 http://119.98.176.205:4000/rtp/239.69.1.192:10794
 
+#EXTINF:-1,tvg-id="宜昌综合" tvg-name="宜昌综合" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",宜昌综合
+http://www.furymax.top:85/rtp/239.69.1.67:10042
+http://www.hiliu.myds.me:8088/rtp/239.69.1.67:10042
+http://119.98.176.205:4000/rtp/239.69.1.67:10042
 #EXTINF:-1,tvg-id="汉川新闻综合" tvg-name="汉川新闻综合" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",汉川新闻综合
 http://www.furymax.top:85/rtp/239.69.1.213:10920
 http://www.hiliu.myds.me:8088/rtp/239.69.1.213:10920
