@@ -252,53 +252,49 @@ http://www.furymax.top:85/rtp/239.69.1.40:9880
 http://www.hiliu.myds.me:8088/rtp/239.69.1.40:9880
 http://119.98.88.186:4022/rtp/239.69.1.40:9880
 #EXTINF:-1,tvg-id="湖北影视" tvg-name="湖北影视" tvg-logo="https://epg.v1.mk/logo/湖北影视.png" group-title="湖北频道",湖北影视
-http://119.98.88.186:4022/rtp/239.69.1.204:10866
 http://www.furymax.top:85/rtp/239.69.1.204:10866
 http://www.hiliu.myds.me:8088/rtp/239.69.1.204:10866
+http://119.98.88.186:4022/rtp/239.69.1.204:10866
 #EXTINF:-1,tvg-id="湖北教育" tvg-name="湖北教育" tvg-logo="https://epg.v1.mk/logo/湖北教育.png" group-title="湖北频道",湖北教育
-http://119.98.88.186:4022/rtp/239.69.1.206:10878
 http://www.furymax.top:85/rtp/239.69.1.206:10878
 http://www.hiliu.myds.me:8088/rtp/239.69.1.206:10878
+http://119.98.88.186:4022/rtp/239.69.1.206:10878
 #EXTINF:-1,tvg-id="湖北生活" tvg-name="湖北生活" tvg-logo="https://epg.v1.mk/logo/湖北生活.png" group-title="湖北频道",湖北生活
-http://119.98.88.186:4022/rtp/239.69.1.205:10872
 http://www.furymax.top:85/rtp/239.69.1.205:10872
 http://www.hiliu.myds.me:8088/rtp/239.69.1.205:10872
+http://119.98.88.186:4022/rtp/239.69.1.205:10872
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉一台新闻综合
-http://119.98.88.186:4022/rtp/239.69.1.145:10506
 http://www.furymax.top:85/rtp/239.69.1.145:10506
 http://www.hiliu.myds.me:8088/rtp/239.69.1.145:10506
+http://119.98.88.186:4022/rtp/239.69.1.145:10506
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉二台电视剧
-http://119.98.88.186:4022/rtp/239.69.1.146:10512
 http://www.furymax.top:85/rtp/239.69.1.146:10512
 http://www.hiliu.myds.me:8088/rtp/239.69.1.146:10512
+http://119.98.88.186:4022/rtp/239.69.1.146:10512
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉三台科技生活
-http://119.98.88.186:4022/rtp/239.69.1.251:11148
 http://www.furymax.top:85/rtp/239.69.1.251:11148
 http://www.hiliu.myds.me:8088/rtp/239.69.1.251:11148
+http://119.98.88.186:4022/rtp/239.69.1.251:11148
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉四台经济
-http://119.98.88.186:4022/rtp/239.69.1.35:9850
 http://www.furymax.top:85/rtp/239.69.1.35:9850
 http://www.hiliu.myds.me:8088/rtp/239.69.1.35:9850
+http://119.98.88.186:4022/rtp/239.69.1.35:9850
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉五台文体
-http://119.98.88.186:4022/rtp/239.69.1.147:10518
 http://www.furymax.top:85/rtp/239.69.1.147:10518
 http://www.hiliu.myds.me:8088/rtp/239.69.1.147:10518
+http://119.98.88.186:4022/rtp/239.69.1.147:10518
 #EXTINF:-1,tvg-id="武汉外语频道" tvg-name="武汉外语频道" tvg-logo="https://epg.v1.mk/logo/武汉外语频道.png" group-title="湖北频道",武汉六台外语
-http://119.98.88.186:4022/rtp/239.69.1.36:9856
 http://www.furymax.top:85/rtp/239.69.1.36:9856
 http://www.hiliu.myds.me:8088/rtp/239.69.1.36:9856
+http://119.98.88.186:4022/rtp/239.69.1.36:9856
 #EXTINF:-1,tvg-id="武汉教育" tvg-name="武汉教育" tvg-logo="https://epg.v1.mk/logo/武汉教育.png" group-title="湖北频道",武汉教育
-http://119.98.88.186:4022/rtp/239.69.1.60:9994
 http://www.furymax.top:85/rtp/239.69.1.60:9994
 http://www.hiliu.myds.me:8088/rtp/239.69.1.60:9994
-#EXTINF:-1,tvg-id="房县新闻综合" tvg-name="房县新闻综合" tvg-logo="https://epg.v1.mk/logo/房县新闻综合.png" group-title="湖北频道",房县综合
-http://119.98.88.186:4022/rtp/239.69.1.192:10794
-http://www.furymax.top:85/rtp/239.69.1.192:10794
-http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
+http://119.98.88.186:4022/rtp/239.69.1.60:9994
 #EXTINF:-1,tvg-id="蔡甸综合" tvg-name="蔡甸综合" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",蔡甸综合
-http://119.98.88.186:4022/rtp/239.69.1.245:11112
 http://www.furymax.top:85/rtp/239.69.1.245:11112
 http://www.hiliu.myds.me:8088/rtp/239.69.1.245:11112
+http://119.98.88.186:4022/rtp/239.69.1.245:11112
 #EXTINF:-1,tvg-id="天门电视台" tvg-name="天门电视台" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",天门电视台
 http://www.furymax.top:85/rtp/239.254.100.84:8478
 http://www.hiliu.myds.me:8088/rtp/239.254.100.84:8478
@@ -307,6 +303,33 @@ http://119.98.88.186:4022/rtp/239.254.100.84:8478
 http://www.furymax.top:85/rtp/239.254.100.89:8508
 http://www.hiliu.myds.me:8088/rtp/239.254.100.89:8508
 http://119.98.88.186:4022/rtp/239.254.100.89:8508
+#EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰新闻" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",十堰新闻
+http://www.furymax.top:85/rtp/239.69.1.62:10012
+http://www.hiliu.myds.me:8088/rtp/239.69.1.62:10012
+http://119.98.88.186:4022/rtp/239.69.1.62:10012
+#EXTINF:-1,tvg-id="十堰公共" tvg-name="十堰公共" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",十堰公共
+http://www.furymax.top:85/rtp/239.69.1.63:10018
+http://www.hiliu.myds.me:8088/rtp/239.69.1.63:10018
+http://119.98.88.186:4022/rtp/239.69.1.63:10018
+#EXTINF:-1,tvg-id="十堰经济" tvg-name="十堰经济" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",十堰经济
+http://www.furymax.top:85/rtp/239.69.1.64:10024
+http://www.hiliu.myds.me:8088/rtp/239.69.1.64:10024
+http://119.98.88.186:4022/rtp/239.69.1.64:10024
+#EXTINF:-1,tvg-id="郧阳新闻" tvg-name="郧阳新闻" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",郧阳新闻
+http://www.furymax.top:85/rtp/239.69.1.139:10470
+http://www.hiliu.myds.me:8088/rtp/239.69.1.139:10470
+http://119.98.88.186:4022/rtp/239.69.1.139:10470
+#EXTINF:-1,tvg-id="竹溪新闻" tvg-name="竹溪新闻" tvg-logo="https://epg.v1.mk/logo/蔡甸综合.png" group-title="湖北频道",竹溪新闻
+http://www.furymax.top:85/rtp/239.69.1.140:10476
+http://www.hiliu.myds.me:8088/rtp/239.69.1.140:10476
+http://119.98.88.186:4022/rtp/239.69.1.140:10476
+
+#EXTINF:-1,tvg-id="房县新闻综合" tvg-name="房县新闻综合" tvg-logo="https://epg.v1.mk/logo/房县新闻综合.png" group-title="湖北频道",房县综合
+http://www.furymax.top:85/rtp/239.69.1.192:10794
+http://www.hiliu.myds.me:8088/rtp/239.69.1.192:10794
+http://119.98.88.186:4022/rtp/239.69.1.192:10794
+
+
 
 
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",早期教育
