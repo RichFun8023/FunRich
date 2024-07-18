@@ -623,57 +623,82 @@ http://dd.ikhs.cn:8880/rtp/239.254.100.89:8508
 
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他频道",卡酷少儿
 http://hiliu.myds.me:8088/rtp/239.69.1.193:10800
-http://w11.top:3333/rtp/239.69.1.193:10800
+http://www.pyboy89.top:7890/rtp/239.69.1.193:10800
 http://dd.ikhs.cn:8880/rtp/239.69.1.193:10800
+http://ndgj.llf2.win:4000/239.69.1.193:10800
+http://w11.top:3333/rtp/239.69.1.193:10800
 #EXTINF:-1,tvg-id="梨园频道" tvg-name="梨园频道" tvg-logo="https://epg.v1.mk/logo/梨园.png" group-title="其他频道",梨园频道
 http://hiliu.myds.me:8088/rtp/239.69.1.33:9838
-http://w11.top:3333/rtp/239.69.1.33:9838
+http://www.pyboy89.top:7890/rtp/239.69.1.33:9838
 http://dd.ikhs.cn:8880/rtp/239.69.1.33:9838
+http://ndgj.llf2.win:4000/rtp/239.69.1.33:9838
+http://w11.top:3333/rtp/239.69.1.33:9838
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="其他频道",武术世界
 http://hiliu.myds.me:8088/rtp/239.69.1.47:9922
-http://w11.top:3333/rtp/239.69.1.47:9922
+http://www.pyboy89.top:7890/rtp/239.69.1.47:9922
 http://dd.ikhs.cn:8880/rtp/239.69.1.47:9922
+http://ndgj.llf2.win:4000/rtp/239.69.1.47:9922
+http://w11.top:3333/rtp/239.69.1.47:9922
 #EXTINF:-1,tvg-id="快乐垂钓" tvg-name="快乐垂钓" tvg-logo="https://epg.v1.mk/logo/快乐垂钓.png" group-title="其他频道",快乐垂钓
 http://hiliu.myds.me:8088/rtp/239.69.1.142:10488
-http://w11.top:3333/rtp/239.69.1.142:10488
+http://www.pyboy89.top:7890/rtp/239.69.1.142:10488
 http://dd.ikhs.cn:8880/rtp/239.69.1.142:10488
+http://ndgj.llf2.win:4000/rtp/239.69.1.142:10488
+http://w11.top:3333/rtp/239.69.1.142:10488
 #EXTINF:-1,tvg-id="茶频道" tvg-name="茶频道" tvg-logo="https://epg.v1.mk/logo/茶.png" group-title="其他频道",茶频道
 http://hiliu.myds.me:8088/rtp/239.69.1.144:10500
-http://w11.top:3333/rtp/239.69.1.144:10500
+http://www.pyboy89.top:7890/rtp/239.69.1.144:10500
 http://dd.ikhs.cn:8880/rtp/239.69.1.144:10500
+http://ndgj.llf2.win:4000/rtp/239.69.1.144:10500
+http://w11.top:3333/rtp/239.69.1.144:10500
 #EXTINF:-1 tvg-id="金鹰卡通" tvg-name="金鹰卡通" tvg-logo="https://epg.v1.mk/logo/金鹰卡通.png" group-title="其他频道",茶频道
 http://hiliu.myds.me:8088/rtp/239.69.1.248:11130
-http://w11.top:3333/rtp/239.69.1.248:11130
+http://www.pyboy89.top:7890/rtp/239.69.1.248:11130
 http://dd.ikhs.cn:8880/rtp/239.69.1.248:11130
+http://ndgj.llf2.win:4000/rtp/239.69.1.248:11130
+http://w11.top:3333/rtp/239.69.1.248:11130
 #EXTINF:-1 tvg-id="金鹰纪实" tvg-name="金鹰纪实" tvg-logo="https://epg.v1.mk/logo/金鹰纪实.png" group-title="其他频道",茶频道
 http://hiliu.myds.me:8088/rtp/239.69.1.109:10292
-http://w11.top:3333/rtp/239.69.1.109:10292
+http://www.pyboy89.top:7890/rtp/239.69.1.109:10292
 http://dd.ikhs.cn:8880/rtp/239.69.1.109:10292
-#EXTINF:-1,tvg-id="cetv1" tvg-name="cetv1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",CETV1
+http://ndgj.llf2.win:4000/rtp/239.69.1.109:10292
+http://w11.top:3333/rtp/239.69.1.109:10292
+#EXTINF:-1,tvg-id="CETV1" tvg-name="CETV1" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",CETV1
 http://58.248.112.205:8006/GD_CUCC/G_CETV-1-HQ.m3u8?Authinfo=rXkmbbZhLH3Xhx6sgXqqNfBTjPwd8%2BrlHZirjuzwIZ3hYb6%2BTtXZQ7TPENg7f2xf
 http://hiliu.myds.me:8088/rtp/239.69.1.110:10298
-http://w11.top:3333/rtp/239.69.1.110:10298
+http://www.pyboy89.top:7890/rtp/239.69.1.110:10298
 http://dd.ikhs.cn:8880/rtp/239.69.1.110:10298
+http://ndgj.llf2.win:4000/rtp/239.69.1.110:10298
+http://w11.top:3333/rtp/239.69.1.110:10298
 
 #EXTINF:-1,tvg-id="早期教育" tvg-name="早期教育" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",早期教育
 http://58.248.112.205:8006/GD_CUCC/G_CETV-ZQJY-CQ.m3u8?Authinfo=56fbZo0WT6rfM%2FXuA%2B6zBZgEcPJzku%2FK%2BhOejG8m3LLDzTKwBfpzpjpJgpyYO6Z%2F
 
 #EXTINF:-1,tvg-id="BestTV测试1-4K" tvg-name="有频道不能看" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",BestTV测试1-4K
 http://hiliu.myds.me:8088/rtp/239.69.1.26:9796
-http://w11.top:3333/rtp/239.69.1.26:9796
+http://www.pyboy89.top:7890/rtp/239.69.1.26:9796
 http://dd.ikhs.cn:8880/rtp/239.69.1.26:9796
+http://ndgj.llf2.win:4000/rtp/239.69.1.26:9796
+http://w11.top:3333/rtp/239.69.1.26:9796
 #EXTINF:-1,tvg-id="BestTV测试2-4K" tvg-name="BestTV测试2-4K" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",BestTV测试2-4K
 http://hiliu.myds.me:8088/rtp/239.69.1.27:9802
-http://w11.top:3333/rtp/239.69.1.27:9802
+http://www.pyboy89.top:7890/rtp/239.69.1.27:9802
 http://dd.ikhs.cn:8880/rtp/239.69.1.27:9802
+http://ndgj.llf2.win:4000/rtp/239.69.1.27:9802
+http://w11.top:3333/rtp/239.69.1.27:9802
 #EXTINF:-1,tvg-id="BestTV测试3-4K" tvg-name="BestTV测试3-4K" tvg-logo="https://epg.v1.mk/logo/cetv1.png" group-title="其他频道",BestTV测试3-4K
 http://hiliu.myds.me:8088/rtp/239.69.1.25:9790
 http://w11.top:3333/rtp/239.69.1.25:9790
+http://www.pyboy89.top:7890/rtp/239.69.1.25:9790
 http://dd.ikhs.cn:8880/rtp/239.69.1.25:9790
+http://ndgj.llf2.win:4000/rtp/239.69.1.25:9790
+http://w11.top:3333/rtp/239.69.1.25:9790
 #EXTINF:-1,tvg-id="爱上4k" tvg-name="爱上4k" tvg-logo="https://epg.v1.mk/logo/爱上4k.png" group-title="其他频道",爱上4K
 http://hiliu.myds.me:8088/rtp/239.69.1.141:10482
-http://w11.top:3333/rtp/239.69.1.141:10482
+http://www.pyboy89.top:7890/rtp/239.69.1.141:10482
 http://dd.ikhs.cn:8880/rtp/239.69.1.141:10482
+http://ndgj.llf2.win:4000/rtp/239.69.1.141:10482
+http://w11.top:3333/rtp/239.69.1.141:10482
 
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳湖北移动IPV6",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
