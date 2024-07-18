@@ -700,6 +700,7 @@ http://dd.ikhs.cn:8880/rtp/239.69.1.141:10482
 http://ndgj.llf2.win:4000/rtp/239.69.1.141:10482
 http://w11.top:3333/rtp/239.69.1.141:10482
 
+
 #EXTINF:-1 tvg-id="CCTV1" tvg-name="CCTV1" group-title="🇨🇳湖北移动IPV6",CCTV1
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN111128BESTVSMGSMG/index.m3u8?m3u8_level=2
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" group-title="🇨🇳湖北移动IPV6",CCTV2
@@ -860,6 +861,9 @@ http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806fb631afe/index.m
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63a15d0ee63f3/index.m3u8?m3u8_level=2
 #EXTINF:-1,tvg-id="CGTN" tvg-name="CGTN" tvg-logo="https://epg.v1.mk/logo/CHC动作电影.png" group-title="🇨🇳湖北移动IPV6",CGTN
 http://[2409:8087:4c0a:22:1::11]:6410/170000001115/UmaiCHAN63806f4f64099/index.m3u8?m3u8_level=2
+
+#ipv6引用地址 https://github.com/YanG-1989/m3u/blob/main/Gather.m3u
+
 #EXTINF:-1 tvg-name="CCTV1" tvg-logo="https://yang-1989.eu.org/logo/CCTV1.png" group-title="•央视「IPV6」",CCTV1「IPV6」
 http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
 #EXTINF:-1 tvg-name="CCTV2" tvg-logo="https://yang-1989.eu.org/logo/CCTV2.png" group-title="•央视「IPV6」",CCTV2「IPV6」
