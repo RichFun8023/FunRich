@@ -42,11 +42,14 @@ http://dd.ikhs.cn:8880/rtp/239.254.96.234:9484
 http://ndgj.llf2.win:4000/rtp/239.254.96.234:9484
 http://w11.top:3333/rtp/239.254.96.234:9484
 #EXTINF:-1 tvg-id="CCTV4K" tvg-name="CCTV4K" tvg-logo="https://live.fanmingming.com/tv/CCTV4K.png" group-title="央视频道",CCTV4K超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb13]/ott.mobaibox.com/PLTV/3/224/3221228228/index.m3u8
 http://hiliu.myds.me:8088/rtp/239.69.1.111:10304
 http://www.pyboy89.top:7890/rtp/239.69.1.111:10304
 http://dd.ikhs.cn:8880/rtp/239.69.1.111:10304
 http://ndgj.llf2.win:4000/rtp/239.69.1.111:10304
 http://w11.top:3333/rtp/239.69.1.111:10304
+#EXTINF:-1 tvg-id="CCTV8K" tvg-name="CCTV8K" tvg-logo="https://live.fanmingming.com/tv/CCTV8K.png" group-title="央视频道",CCTV-8K 超高清
+http://[2409:8087:2001:20:2800:0:df6e:eb03]/ott.mobaibox.com/PLTV/4/224/3221228165/index.m3u8
 
 #EXTINF:-1 tvg-id="凤凰中文" tvg-name="甘肃电信四川电信(浙江电信备用)组播" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视中文台.png" group-title="央视频道",凤凰中文
 http://[2409:8087:2801:22:100::45]/wh7f454c46tw14778710_346869978/hwltc.tv.cdn.zj.chinamobile.com/PLTV/88888888/224/3221236260/index.m3u8?icpid=88888888&RTS=1717810839&from=5&hms_devid=1640&online=1717810839&vqe=3
@@ -79,6 +82,7 @@ http://42.91.62.170:10000/udp/239.255.30.70:8231
 http://svn.ceet-china.com:6666/udp/239.93.0.118:2191
 http://svn.ceet-china.com:6666/udp/239.93.1.4:2191
 #EXTINF:-1 tvg-id="凤凰香港" tvg-name="甘肃电信组播" tvg-logo="https://live.fanmingming.com/tv/凤凰卫视香港台.png" group-title="央视频道",凤凰香港
+http://[2409:8087:2001:20:2800:0:df6e:eb23]:80/ott.mobaibox.com/PLTV/1/224/3221228530/1.m3u8
 http://60.164.229.63:4040/udp/239.255.30.123:8231
 http://42.91.62.170:10000/udp/239.255.30.123:8231
 http://guany.myds.me:25852/udp/233.50.200.193:5140
@@ -190,18 +194,21 @@ http://ndgj.llf2.win:4000/rtp/239.69.1.152:10548
 http://w11.top:3333/rtp/239.69.1.152:10548
 
 #EXTINF:-1,tvg-id="CHC-高清电影" tvg-name="CHC高清电影" tvg-logo="https://live.fanmingming.com/tv/CHC高清电影.png" group-title="央视频道",CHC高清电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226463/1.m3u8
 http://hiliu.myds.me:8088/rtp/239.69.1.241:11088
 http://www.pyboy89.top:7890/rtp/239.69.1.241:11088
 http://dd.ikhs.cn:8880/rtp/239.69.1.241:11088
 http://ndgj.llf2.win:4000/rtp/239.69.1.241:11088
 http://w11.top:3333/rtp/239.69.1.241:11088
 #EXTINF:-1,tvg-id="CHC-动作电影" tvg-name="CHC动作电影" tvg-logo="https://live.fanmingming.com/tv/CHC动作电影.png" group-title="央视频道",CHC动作电影
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226465/1.m3u8
 http://hiliu.myds.me:8088/rtp/239.69.1.242:11094
 http://www.pyboy89.top:7890/rtp/239.69.1.242:11094
 http://dd.ikhs.cn:8880/rtp/239.69.1.242:11094
 http://ndgj.llf2.win:4000/rtp/239.69.1.242:11094
 http://w11.top:3333/rtp/239.69.1.242:11094
 #EXTINF:-1,tvg-id="CHC-家庭影院" tvg-name="CHC家庭影院" tvg-logo="https://live.fanmingming.com/tv/CHC家庭影院.png" group-title="央视频道",CHC家庭影院
+http://[2409:8087:7001:20:2::3]:80/dbiptv.sn.chinamobile.com/PLTV/88888888/224/3221226462/1.m3u8
 http://hiliu.myds.me:8088/rtp/239.69.1.243:11100
 http://www.pyboy89.top:7890/rtp/239.69.1.243:11100
 http://dd.ikhs.cn:8880/rtp/239.69.1.243:11100
@@ -291,6 +298,7 @@ http://dd.ikhs.cn:8880/rtp/239.254.96.115:8664
 http://ndgj.llf2.win:4000/rtp/239.254.96.115:8664
 http://w11.top:3333/rtp/239.254.96.115:8664
 #EXTINF:-1 tvg-id="陕西卫视" tvg-name="陕西卫视" tvg-logo="https://live.fanmingming.com/tv/陕西卫视.png" group-title="卫视频道",陕西卫视
+http://[2409:8087:1a01:df::7005]:80/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225625/index.m3u8
 http://hiliu.myds.me:8088/rtp/239.254.96.186:9196
 http://www.pyboy89.top:7890/rtp/239.254.96.186:9196
 http://dd.ikhs.cn:8880/rtp/239.254.96.186:9196
