@@ -586,9 +586,9 @@ http://hhl.fun:8889/rtp/239.69.1.148:10524
 #EXTINF:-1,tvg-id="应城新闻党建" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/应城新闻党建.png" group-title="湖北频道",应城新闻党建
 http://hhl.fun:8889/rtp/239.69.1.209:10896
 
-#EXTINF:-1,tvg-id="仙桃三台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃三台.png" group-title="湖北频道",仙桃三台
+#EXTINF:-1,tvg-id="仙桃新闻" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃三台.png" group-title="湖北频道",仙桃新闻
 http://liuxiaobo.top:8888/rtp/239.254.100.241:9526
-#EXTINF:-1,tvg-id="仙桃江汉影视" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃江汉影视.png" group-title="湖北频道",仙桃江汉影视
+#EXTINF:-1,tvg-id="仙桃生活" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃江汉影视.png" group-title="湖北频道",仙桃生活
 http://liuxiaobo.top:8888/rtp/239.254.100.242:9532
 #EXTINF:-1,tvg-id="天门电视台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门电视台.png" group-title="湖北频道",天门电视台
 http://liuxiaobo.top:8888/rtp/239.254.100.84:8478
