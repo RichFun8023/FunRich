@@ -586,11 +586,24 @@ http://hhl.fun:8889/rtp/239.69.1.148:10524
 #EXTINF:-1,tvg-id="应城新闻党建" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/应城新闻党建.png" group-title="湖北频道",应城新闻党建
 http://hhl.fun:8889/rtp/239.69.1.209:10896
 
+#EXTINF:-1,tvg-id="仙桃三台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃三台.png" group-title="湖北频道",天门电视台
+http://liuxiaobo.top:8888/rtp/239.254.100.241:9526
+#EXTINF:-1,tvg-id="仙桃江汉影视" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/仙桃江汉影视.png" group-title="湖北频道",天门电视台
+http://liuxiaobo.top:8888/rtp/239.254.100.242:9532
+#EXTINF:-1,tvg-id="天门电视台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门电视台.png" group-title="湖北频道",天门电视台
+http://liuxiaobo.top:8888/rtp/239.254.100.84:8478
+
 #EXTINF:-1,tvg-id="巴东新闻" tvg-name="黄石组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
 http://www.hangge123.top:9999/rtp/239.69.1.37:9862
+#EXTINF:-1,tvg-id="黄石新闻综合" tvg-name="黄石组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
+http://www.hangge123.top:9999/rtp/239.69.1.184:10740
+#EXTINF:-1,tvg-id="黄石都市" tvg-name="黄石组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
+http://www.hangge123.top:9999/rtp/239.69.1.185:10746
 
 #EXTINF:-1,tvg-id="宜昌综合" tvg-name="宜昌组播" tvg-logo="https://epg.v1.mk/logo/宜昌综合.png" group-title="湖北频道",宜昌综合
 http://ned2188.eicp.net:8888/rtp/239.69.1.67:10042
+#EXTINF:-1,tvg-id="宜昌旅游" tvg-name="宜昌组播" tvg-logo="https://epg.v1.mk/logo/宜昌旅游.png" group-title="湖北频道",宜昌综合
+http://ned2188.eicp.net:8888/rtp/239.253.152.224:9424
 
 #EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰新闻.png" group-title="湖北频道",十堰新闻
 http://27.30.72.168:8888/rtp/239.69.1.62:10012
@@ -602,11 +615,6 @@ http://27.30.72.168:8888/rtp/239.69.1.64:10024
 http://27.30.72.168:8888/rtp/239.69.1.139:10470
 #EXTINF:-1,tvg-id="竹溪新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/竹溪新闻.png" group-title="湖北频道",竹溪新闻
 http://27.30.72.168:8888/rtp/239.69.1.140:10476
-
-#EXTINF:-1,tvg-id="天门电视台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门电视台.png" group-title="湖北频道",天门电视台
-http://liuxiaobo.top:8888/rtp/239.254.100.84:8478
-#EXTINF:-1,tvg-id="天门农业" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门农业.png" group-title="湖北频道",天门农业
-http://liuxiaobo.top:8888/rtp/239.254.100.89:8508
 
 
 #EXTINF:-1,tvg-id="卡酷少儿" tvg-name="卡酷少儿" tvg-logo="https://epg.v1.mk/logo/卡酷少儿.png" group-title="其他频道",卡酷少儿
@@ -621,6 +629,7 @@ http://www.pyboy89.top:7890/rtp/239.69.1.33:9838
 http://dd.ikhs.cn:8880/rtp/239.69.1.33:9838
 http://ndgj.llf2.win:4000/rtp/239.69.1.33:9838
 http://w11.top:3333/rtp/239.69.1.33:9838
+http://zyhfm.com:8888/rtp/239.254.104.206:9316
 #EXTINF:-1,tvg-id="武术世界" tvg-name="武术世界" tvg-logo="https://epg.v1.mk/logo/武术世界.png" group-title="其他频道",武术世界
 http://zyhfm.com:8888/rtp/239.69.1.47:9922
 http://www.pyboy89.top:7890/rtp/239.69.1.47:9922
