@@ -575,8 +575,6 @@ http://w11.top:3333/rtp/239.69.1.192:10794
 
 #EXTINF:-1,tvg-id="汉川新闻综合" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/汉川综合.png" group-title="湖北频道",汉川新闻综合
 http://hhl.fun:8889/rtp/239.69.1.213:10920
-http://liuxiaobo.top:8888/rtp/239.69.1.213:10920
-http://ned2188.eicp.net:8888/rtp/239.69.1.213:10920
 #EXTINF:-1,tvg-id="孝感新闻综合" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/孝感综合.png" group-title="湖北频道",孝感新闻综合
 http://hhl.fun:8889/rtp/239.69.1.229:11016
 #EXTINF:-1,tvg-id="孝感公共" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/孝感公共.png" group-title="湖北频道",孝感公共
@@ -588,21 +586,14 @@ http://hhl.fun:8889/rtp/239.69.1.148:10524
 #EXTINF:-1,tvg-id="应城新闻党建" tvg-name="孝感组播" tvg-logo="https://epg.v1.mk/logo/应城新闻党建.png" group-title="湖北频道",应城新闻党建
 http://hhl.fun:8889/rtp/239.69.1.209:10896
 
-#EXTINF:-1,tvg-id="巴东新闻" tvg-name="恩施组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
-http://hhl.fun:8889/rtp/239.69.1.37:9862
-http://ned2188.eicp.net:8888/rtp/239.69.1.37:9862
-http://liuxiaobo.top:8888/rtp/239.69.1.37:9862
+#EXTINF:-1,tvg-id="巴东新闻" tvg-name="黄石组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
+http://www.hangge123.top:9999/rtp/239.69.1.37:9862
 
 #EXTINF:-1,tvg-id="宜昌综合" tvg-name="宜昌组播" tvg-logo="https://epg.v1.mk/logo/宜昌综合.png" group-title="湖北频道",宜昌综合
 http://ned2188.eicp.net:8888/rtp/239.69.1.67:10042
-http://27.30.72.168:8888/rtp/239.69.1.67:10042
-http://liuxiaobo.top:8888/rtp/239.69.1.67:10042
 
 #EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰新闻.png" group-title="湖北频道",十堰新闻
 http://27.30.72.168:8888/rtp/239.69.1.62:10012
-http://ned2188.eicp.net:8888/rtp/239.69.1.62:10012
-http://liuxiaobo.top:8888/rtp/239.69.1.62:10012
-http://hhl.fun:8889/rtp/239.69.1.62:10012
 #EXTINF:-1,tvg-id="十堰公共" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰公共.png" group-title="湖北频道",十堰公共
 http://27.30.72.168:8888/rtp/239.69.1.63:10018
 #EXTINF:-1,tvg-id="十堰经济" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰经济.png" group-title="湖北频道",十堰经济
@@ -612,11 +603,8 @@ http://27.30.72.168:8888/rtp/239.69.1.139:10470
 #EXTINF:-1,tvg-id="竹溪新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/竹溪新闻.png" group-title="湖北频道",竹溪新闻
 http://27.30.72.168:8888/rtp/239.69.1.140:10476
 
-
 #EXTINF:-1,tvg-id="天门电视台" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门电视台.png" group-title="湖北频道",天门电视台
 http://liuxiaobo.top:8888/rtp/239.254.100.84:8478
-
-
 #EXTINF:-1,tvg-id="天门农业" tvg-name="天门组播" tvg-logo="https://epg.v1.mk/logo/天门农业.png" group-title="湖北频道",天门农业
 http://liuxiaobo.top:8888/rtp/239.254.100.89:8508
 
