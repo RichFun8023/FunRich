@@ -594,15 +594,15 @@ http://liuxiaobo.top:8888/rtp/239.254.100.242:9532
 http://liuxiaobo.top:8888/rtp/239.254.100.84:8478
 
 #EXTINF:-1,tvg-id="十堰新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰新闻.png" group-title="湖北频道",十堰新闻
-http://27.30.72.168:8888/rtp/239.69.1.62:10012
+http://27.30.72.53:8888/rtp/239.69.1.62:10012
 #EXTINF:-1,tvg-id="十堰公共" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰公共.png" group-title="湖北频道",十堰公共
-http://27.30.72.168:8888/rtp/239.69.1.63:10018
+http://27.30.72.53:8888/rtp/239.69.1.63:10018
 #EXTINF:-1,tvg-id="十堰经济" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/十堰经济.png" group-title="湖北频道",十堰经济
-http://27.30.72.168:8888/rtp/239.69.1.64:10024
+http://27.30.72.53:8888/rtp/239.69.1.64:10024
 #EXTINF:-1,tvg-id="郧阳新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/郧阳新闻.png" group-title="湖北频道",郧阳新闻
-http://27.30.72.168:8888/rtp/239.69.1.139:10470
+http://27.30.72.53:8888/rtp/239.69.1.139:10470
 #EXTINF:-1,tvg-id="竹溪新闻" tvg-name="十堰组播" tvg-logo="https://epg.v1.mk/logo/竹溪新闻.png" group-title="湖北频道",竹溪新闻
-http://27.30.72.168:8888/rtp/239.69.1.140:10476
+http://27.30.72.53:8888/rtp/239.69.1.140:10476
 
 #EXTINF:-1,tvg-id="巴东新闻" tvg-name="黄石组播" tvg-logo="https://epg.v1.mk/logo/巴东新闻.png" group-title="湖北频道",巴东新闻
 http://www.hangge123.top:9999/rtp/239.69.1.37:9862
