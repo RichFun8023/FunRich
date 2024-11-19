@@ -1,41 +1,41 @@
 #EXTM3U x-tvg-url="https://live.fanmingming.com/e.xml"
 #EXTINF:-1 tvg-id="CCTV1 tvg-name="CCTV1" tvg-logo="https://live.fanmingming.com/tv/CCTV1.png" group-title="央视频道",CCTV-1 综合
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226559/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000001/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.254.96.96:8550
 http://cnumber.gicp.net:5555/rtp/239.254.96.96:8550
 http://hzzzz530.com:4022/rtp/239.254.96.96:8550
 http://ndgj.llf2.win:4000/rtp/239.254.96.96:8550
 http://cnumber.gicp.net:5555/rtp/239.254.96.96:8550
 #EXTINF:-1 tvg-id="CCTV2" tvg-name="CCTV2" tvg-logo="https://live.fanmingming.com/tv/CCTV2.png" group-title="央视频道",CCTV-2 财经
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226540/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000502/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.102:10250
 http://cnumber.gicp.net:5555/rtp/239.69.1.102:10250
 http://hzzzz530.com:4022/rtp/239.69.1.102:10250
 http://ndgj.llf2.win:4000/rtp/239.69.1.102:10250
 http://cnumber.gicp.net:5555/rtp/239.69.1.102:10250
 #EXTINF:-1 tvg-id="CCTV3" tvg-name="CCTV3" tvg-logo="https://live.fanmingming.com/tv/CCTV3.png" group-title="央视频道",CCTV-3 综艺
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226021/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000003/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.122:10370
 http://cnumber.gicp.net:5555/rtp/239.69.1.122:10370
 http://hzzzz530.com:4022/rtp/239.69.1.122:10370
 http://ndgj.llf2.win:4000/rtp/239.69.1.122:10370
 http://cnumber.gicp.net:5555/rtp/239.69.1.122:10370
 #EXTINF:-1 tvg-id="CCTV4" tvg-name="CCTV4" tvg-logo="https://live.fanmingming.com/tv/CCTV4.png" group-title="央视频道",CCTV-4 中文国际
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226428/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000503/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.138:10466
 http://cnumber.gicp.net:5555/rtp/239.69.1.138:10466
 http://hzzzz530.com:4022/rtp/239.69.1.138:10466
 http://ndgj.llf2.win:4000/rtp/239.69.1.138:10466
 http://cnumber.gicp.net:5555/rtp/239.69.1.138:10466
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5" tvg-logo="https://live.fanmingming.com/tv/CCTV5.png" group-title="央视频道",CCTV-5 体育
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226019/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000005/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.123:10376
 http://cnumber.gicp.net:5555/rtp/239.69.1.123:10376
 http://hzzzz530.com:4022/rtp/239.69.1.123:10376
 http://ndgj.llf2.win:4000/rtp/239.69.1.123:10376
 http://cnumber.gicp.net:5555/rtp/239.69.1.123:10376
 #EXTINF:-1 tvg-id="CCTV5" tvg-name="CCTV5+" tvg-logo="https://live.fanmingming.com/tv/CCTV5+.png" group-title="央视频道",CCTV-5+ 体育赛事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225603/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000507/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.254.96.234:9484
 http://cnumber.gicp.net:5555/rtp/239.254.96.234:9484
 http://hzzzz530.com:4022/rtp/239.254.96.234:9484
@@ -101,77 +101,77 @@ http://svn.ceet-china.com:6666/udp/239.93.0.156:2193
 http://svn.ceet-china.com:6666/udp/239.93.1.10:2193
 
 #EXTINF:-1 tvg-id="CCTV6" tvg-name="CCTV6" tvg-logo="https://live.fanmingming.com/tv/CCTV6.png" group-title="央视频道",CCTV-6 电影
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226010/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000006/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.124:10382
 http://cnumber.gicp.net:5555/rtp/239.69.1.124:10382
 http://hzzzz530.com:4022/rtp/239.69.1.124:10382
 http://ndgj.llf2.win:4000/rtp/239.69.1.124:10382
 http://cnumber.gicp.net:5555/rtp/239.69.1.124:10382
 #EXTINF:-1 tvg-id="CCTV7" tvg-name="CCTV7" tvg-logo="https://live.fanmingming.com/tv/CCTV7.png" group-title="央视频道",CCTV-7 国防军事
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225733/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000504/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.103:10256
 http://cnumber.gicp.net:5555/rtp/239.69.1.103:10256
 http://hzzzz530.com:4022/rtp/239.69.1.103:10256
 http://ndgj.llf2.win:4000/rtp/239.69.1.103:10256
 http://cnumber.gicp.net:5555/rtp/239.69.1.103:10256
 #EXTINF:-1 tvg-id="CCTV8" tvg-name="CCTV8" tvg-logo="https://live.fanmingming.com/tv/CCTV8.png" group-title="央视频道",CCTV-8 电视剧
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226008/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000008/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.125:10388
 http://cnumber.gicp.net:5555/rtp/239.69.1.125:10388
 http://hzzzz530.com:4022/rtp/239.69.1.125:10388
 http://ndgj.llf2.win:4000/rtp/239.69.1.125:10388
 http://cnumber.gicp.net:5555/rtp/239.69.1.125:10388
 #EXTINF:-1 tvg-id="CCTV9" tvg-name="CCTV9" tvg-logo="https://live.fanmingming.com/tv/CCTV9.png" group-title="央视频道",CCTV-9 纪录
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225734/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000505/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.104:10262
 http://cnumber.gicp.net:5555/rtp/239.69.1.104:10262
 http://hzzzz530.com:4022/rtp/239.69.1.104:10262
 http://ndgj.llf2.win:4000/rtp/239.69.1.104:10262
 http://cnumber.gicp.net:5555/rtp/239.69.1.104:10262
 #EXTINF:-1 tvg-id="CCTV10" tvg-name="CCTV10" tvg-logo="https://live.fanmingming.com/tv/CCTV10.png" group-title="央视频道",CCTV-10 科教
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226473/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000506/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.105:10268
 http://cnumber.gicp.net:5555/rtp/239.69.1.105:10268
 http://hzzzz530.com:4022/rtp/239.69.1.105:10268
 http://ndgj.llf2.win:4000/rtp/239.69.1.105:10268
 http://cnumber.gicp.net:5555/rtp/239.69.1.105:10268
 #EXTINF:-1 tvg-id="CCTV11" tvg-name="CCTV11" tvg-logo="https://live.fanmingming.com/tv/CCTV11.png" group-title="央视频道",CCTV-11 戏曲
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226565/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000508/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.154:10560
 http://cnumber.gicp.net:5555/rtp/239.69.1.154:10560
 http://hzzzz530.com:4022/rtp/239.69.1.154:10560
 http://ndgj.llf2.win:4000/rtp/239.69.1.154:10560
 http://cnumber.gicp.net:5555/rtp/239.69.1.154:10560
 #EXTINF:-1 tvg-id="CCTV12" tvg-name="CCTV12" tvg-logo="https://live.fanmingming.com/tv/CCTV12.png" group-title="央视频道",CCTV-12 社会与法
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226568/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000509/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.106:10274
 http://cnumber.gicp.net:5555/rtp/239.69.1.106:10274
 http://hzzzz530.com:4022/rtp/239.69.1.106:10274
 http://ndgj.llf2.win:4000/rtp/239.69.1.106:10274
 http://cnumber.gicp.net:5555/rtp/239.69.1.106:10274
 #EXTINF:-1 tvg-id="CCTV13" tvg-name="CCTV13" tvg-logo="https://live.fanmingming.com/tv/CCTV13.png" group-title="央视频道",CCTV-13 新闻
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226537/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000510/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.254.96.161:9040
 http://cnumber.gicp.net:5555/rtp/239.254.96.161:9040
 http://hzzzz530.com:4022/rtp/239.254.96.161:9040
 http://ndgj.llf2.win:4000/rtp/239.254.96.161:9040
 http://cnumber.gicp.net:5555/rtp/239.254.96.161:9040
 #EXTINF:-1 tvg-id="CCTV14" tvg-name="CCTV14" tvg-logo="https://live.fanmingming.com/tv/CCTV14.png" group-title="央视频道",CCTV-14 少儿
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226591/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000511/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.107:10280
 http://cnumber.gicp.net:5555/rtp/239.69.1.107:10280
 http://hzzzz530.com:4022/rtp/239.69.1.107:10280
 http://ndgj.llf2.win:4000/rtp/239.69.1.107:10280
 http://cnumber.gicp.net:5555/rtp/239.69.1.107:10280
 #EXTINF:-1 tvg-id="CCTV15" tvg-name="CCTV15" tvg-logo="https://live.fanmingming.com/tv/CCTV15.png" group-title="央视频道",CCTV-15 音乐
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226476/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000512/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.155:10566
 http://cnumber.gicp.net:5555/rtp/239.69.1.155:10566
 http://hzzzz530.com:4022/rtp/239.69.1.155:10566
 http://ndgj.llf2.win:4000/rtp/239.69.1.155:10566
 http://cnumber.gicp.net:5555/rtp/239.69.1.155:10566
 #EXTINF:-1 tvg-id="CCTV16" tvg-name="CCTV16" tvg-logo="https://live.fanmingming.com/tv/CCTV16.png" group-title="央视频道",CCTV-16 奥林匹克
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221226100/index.m3u8
+http://[2409:8087:74d9:21::6]:80/270000001128/9900000016/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.247:11124
 http://cnumber.gicp.net:5555/rtp/239.69.1.247:11124
 http://hzzzz530.com:4022/rtp/239.69.1.247:11124
@@ -185,7 +185,7 @@ http://hzzzz530.com:4022/rtp/239.69.1.13:9718
 http://ndgj.llf2.win:4000/rtp/239.69.1.13:9718
 http://cnumber.gicp.net:5555/rtp/239.69.1.13:9718
 #EXTINF:-1 tvg-id="CCTV17" tvg-name="CCTV17" tvg-logo="https://live.fanmingming.com/tv/CCTV17.png" group-title="央视频道",CCTV-17 农业农村
-http://[2409:8087:1a01:df::7005]/ottrrs.hl.chinamobile.com/PLTV/88888888/224/3221225765/index.m3u8
+http://[2409:8087:74d9:21::9]:80/270000001128/9900000513/index.m3u8
 http://dsm.hzzzz530.com:4022/rtp/239.69.1.152:10548
 http://cnumber.gicp.net:5555/rtp/239.69.1.152:10548
 http://hzzzz530.com:4022/rtp/239.69.1.152:10548
